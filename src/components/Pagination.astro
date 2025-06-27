@@ -1,0 +1,24 @@
+---
+import posts from '../data/posts.json';
+
+const { date: currentDate } = Astro.props;
+
+function getAvailableDates() {
+  return [...new Set(posts.map(p => p.date))].sort((a, b) => b.localeCompare(a));
+}
+
+const availableDates = getAvailableDates();
+const index = availableDates.indexOf(currentDate);
+const prev = index < availableDates.length - 1 ? availableDates[index + 1] : null;
+const next = index > 0 ? availableDates[index - 1] : null;
+const latest = availableDates[0];
+---
+
+<nav class="pagination">
+  {prev && <a href={`/${prev}`} class="prev">← Previous</a>}
+  {next && (
+    next === latest
+      ? <a href="/" class="next">Next →</a>
+      : <a href={`/${next}`} class="next">Next →</a>
+  )}
+</nav>

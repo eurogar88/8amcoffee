@@ -1,0 +1,64 @@
+---
+const { date, prev, next, posts, showCanonical = false, latestDate } = Astro.props;
+const isToday = date === new Date().toISOString().split('T')[0];
+const nextLink = next === latestDate ? '/' : `/${next}`;
+const currentYear = new Date().getFullYear();
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>8am Coffee</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/global.css" />
+    {showCanonical && <link rel="canonical" href="https://8am.coffee/" />}
+  </head>
+  <body>
+    <header>
+      <a href="/" class="logo-link">
+        <object type="image/svg+xml" data="/assets/logo.svg" class="logo"></object>
+      </a>
+      <a href="/" class="title-link"><h1>8am ☕ Coffee</h1></a>
+      <p class="subtitle">Daily curated AI news for you</p>
+    </header>
+
+    {date && (
+      <div class="pagination">
+        <a href={prev ? `/${prev}` : '#'} class={`nav-btn ${!prev ? 'disabled' : ''}`}>← Previous Day</a>
+        <span class="date-label">{isToday ? 'Today' : date}</span>
+        <a href={next ? nextLink : '#'} class={`nav-btn ${!next ? 'disabled' : ''}`}>Next Day →</a>
+      </div>
+    )}
+
+    <main class="post-list">
+      {posts.length === 0 ? (
+        <p style="text-align:center;">No posts for this day.</p>
+      ) : (
+        posts.map(post => (
+          <div class="post">
+            <h2>{post.icon && <span innerHTML={post.icon}></span>} {post.title}</h2>
+            <small>{post.date}</small>
+            <div set:html={post.content}></div>
+            {post.url && (
+              <a href={post.url} target="_blank" rel="noopener noreferrer" class="nav-btn read-more">
+                Read more →
+              </a>
+            )}
+          </div>
+        ))
+      )}
+    </main>
+
+    <footer>
+      <div class="footer-links">
+        <a href="/legal">Legal Notice</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/cookies">Cookies Policy</a>
+      </div>
+      <div>© {currentYear} 8am Coffee</div>
+    </footer>
+
+    <script src="/inject-banner.js" defer></script>
+  </body>
+</html>

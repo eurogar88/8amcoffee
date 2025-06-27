@@ -1,0 +1,26 @@
+---
+import Layout from '../components/Layout.astro';
+import posts from '../data/posts.json';
+
+export function getStaticPaths() {
+  const dates = [...new Set(posts.map(p => p.date))];
+  return dates.map(date => ({ params: { date } }));
+}
+
+const { date } = Astro.params;
+const availableDates = [...new Set(posts.map(p => p.date))].sort((a, b) => b.localeCompare(a));
+const latestDate = availableDates[0];
+const index = availableDates.indexOf(date);
+const prev = index < availableDates.length - 1 ? availableDates[index + 1] : null;
+const next = index > 0 ? availableDates[index - 1] : null;
+const filteredPosts = posts.filter(p => p.date === date);
+---
+
+<Layout 
+  date={date} 
+  prev={prev} 
+  next={next} 
+  posts={filteredPosts} 
+  showCanonical={false}
+  latestDate={latestDate}
+/>

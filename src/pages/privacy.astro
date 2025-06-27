@@ -1,0 +1,18 @@
+---
+import Layout from '../components/Layout.astro';
+
+const pageTitle = "Privacy Policy";
+const content = `
+<p>This website uses Mixpanel to collect anonymized analytics data to help us understand how visitors use the site. This includes information such as browser type, pages visited, and time spent on the site. We do not collect any personally identifiable information.</p>
+
+<p>All data is processed by Mixpanel in accordance with their <a href="https://mixpanel.com/legal/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. By using this website, you consent to the processing of this data for statistical and optimisation purposes.</p>
+
+<p>We do not sell, trade, or share your data with third parties for marketing purposes.</p>
+
+<p>For any questions regarding your data, please contact us at <a href="mailto:8amcoffeeai@gmail.com">8amcoffeeai@gmail.com</a>.</p>
+
+<p><em>Last updated: June 2025</em></p>
+`;
+---
+
+<Layout date={null} posts={[{ title: pageTitle, date: '', content }]} showCanonical={true} />

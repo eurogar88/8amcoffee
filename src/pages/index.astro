@@ -1,0 +1,25 @@
+---
+import Layout from '../components/Layout.astro';
+import posts from '../data/posts.json';
+
+const availableDates = [...new Set(posts.map(p => p.date))].sort((a, b) => b.localeCompare(a));
+const latestDate = availableDates[0];
+const filteredPosts = posts.filter(p => p.date === latestDate);
+const prev = availableDates[1] || null;
+---
+
+<Layout 
+  date={latestDate} 
+  prev={prev} 
+  next={null} 
+  posts={filteredPosts} 
+  showCanonical={true} 
+  latestDate={latestDate}
+/>
+
+<!-- 👇 Esto asegura que se generen las páginas /posts/[slug] -->
+<ul style="display: none;">
+  {posts.map(post => (
+    <li><a href={`/posts/${post.slug}`}>{post.title}</a></li>
+  ))}
+</ul>

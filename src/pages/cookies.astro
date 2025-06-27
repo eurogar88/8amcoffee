@@ -1,0 +1,18 @@
+---
+import Layout from '../components/Layout.astro';
+
+const pageTitle = "Cookies Policy";
+const content = `
+<p>This website uses cookies solely for analytics purposes via Mixpanel. These cookies help us measure usage, improve performance, and understand user behaviour. They do not store personally identifiable information.</p>
+
+<p>You can manage or block cookies through your browser settings. If you choose to disable cookies, some functionality may be limited.</p>
+
+<p>To learn more about how Mixpanel uses cookies, please visit their <a href="https://mixpanel.com/legal/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.</p>
+
+<p>We do not use cookies for advertising or tracking across other websites.</p>
+
+<p><em>Last updated: June 2025</em></p>
+`;
+---
+
+<Layout date={null} posts={[{ title: pageTitle, date: '', content }]} showCanonical={true} />

@@ -1,0 +1,21 @@
+---
+import Layout from '../../components/Layout.astro';
+import posts from '../../data/posts.json';
+
+export async function getStaticPaths() {
+  console.log("POSTS PARA RUTAS:", posts);
+  return posts.map(post => ({
+    params: { slug: post.slug },
+    props: { post }
+  }));
+}
+
+const { post } = Astro.props;
+---
+
+<Layout date={null} posts={[{
+  title: post.title,
+  date: post.date,
+  content: post.content,
+  url: post.url
+}]} showCanonical={true} />

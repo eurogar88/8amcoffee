@@ -1,0 +1,13 @@
+---
+import Layout from '../components/Layout.astro';
+
+const pageTitle = "Legal Notice";
+const content = `
+  <p>This website, <strong>8am Coffee</strong>, is owned and operated by a private individual for informational and educational purposes only.</p>
+  <p>All content provided on this site is curated from public sources and presented with attribution where applicable. We do not claim ownership of external content unless otherwise stated.</p>
+  <p>If you believe your rights have been infringed or you wish to request content removal, please contact us via email: <a href="mailto:8amcoffeeai@gmail.com">8amcoffeeai@gmail.com</a></p>
+  <p><em>Last updated: June 2025</em></p>
+`;
+---
+
+<Layout date={null} posts={[{ title: pageTitle, date: '', content }]} showCanonical={true} />

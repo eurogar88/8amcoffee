@@ -1,0 +1,272 @@
+/* public/global.css */
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #f3f0ff;
+  color: #222;
+  margin: 0;
+  padding: 0 1rem;
+  max-width: 700px;
+  margin-inline: auto;
+}
+
+header {
+  text-align: center;
+  margin: 2rem 0 1rem;
+}
+
+.logo-link {
+  display: inline-block;
+  width: 220px;
+  margin: 0 auto 0.3rem;
+  text-align: center;
+}
+
+.logo {
+  height: 200px;
+  display: block;
+  margin-inline: auto;
+  filter: brightness(0);
+  pointer-events: none;
+}
+
+.title-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.title-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1 {
+  margin: 0 0 1.5rem;
+  font-size: 2rem;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.pagination span {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.pagination a {
+  text-decoration: none;
+  padding: 0.4rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #9244d9;
+  color: #9244d9;
+  background: transparent;
+  transition: all 0.2s ease;
+  min-width: 120px;
+  text-align: center;
+}
+
+.pagination a:hover {
+  background-color: #9244d910;
+}
+
+.pagination a.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  line-height: 1.6; /* Ajusta la separación entre líneas del texto de la descripción de los posts */
+}
+
+.post-list > *:not(:first-child) {
+  margin-top: 1rem;
+}
+
+.post {
+  background: white;
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  box-shadow: 0 2px 6px #0001;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px #0002;
+}
+
+.post h2 {
+  margin: 0 0 0.4rem;
+  font-size: 1.3rem;
+}
+
+.post small {
+  color: #aaa;
+  font-size: 0.85rem;
+  margin-bottom: 0.2rem;
+  display: block;
+}
+
+.post p {
+  line-height: 1.75;
+  margin-top: 0.5rem;
+}
+
+footer {
+  margin-top: 3rem;
+  padding: 2rem 1rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #777;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@media (min-width: 768px) {
+  .post {
+    margin-inline: -2rem;
+  }
+}
+
+.subtitle {
+  margin-top: -1rem;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  color: #666;
+  font-weight: 400;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.4rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #9244d9;
+  color: #9244d9;
+  background: transparent;
+  transition: all 0.2s ease;
+  text-align: center;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 0.95rem;
+}
+
+.read-more:hover {
+  background-color: #9244d910;
+}
+
+/* 🚀 Banner de Telegram con mismo ancho y estilo que .post */
+.telegram-banner {
+  background: white;
+  border: 2px solid #a07cff;
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  box-shadow: 0 2px 6px #0001;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.telegram-banner:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px #0002;
+}
+
+
+@media (min-width: 768px) {
+  .telegram-banner {
+    margin-inline: -2rem;
+  }
+}
+
+.telegram-banner .telegram-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.telegram-banner img {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+
+.telegram-banner strong {
+  font-size: 1.1rem;
+  color: #111;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.telegram-banner p {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0;
+}
+
+.telegram-banner span {
+  font-weight: bold;
+  color: #a07cff;
+}
+
+.telegram-banner .telegram-button {
+  display: inline-block;
+  background: #a07cff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.9rem;
+  transition: background 0.2s ease-in-out;
+  white-space: nowrap;
+}
+
+.telegram-banner .telegram-button:hover {
+  background: #8d64f5;
+}
+
+@media (max-width: 600px) {
+  .telegram-banner {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .telegram-banner .telegram-left {
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .telegram-banner .telegram-button {
+    width: 100%;
+    text-align: center;
+  }
+}
