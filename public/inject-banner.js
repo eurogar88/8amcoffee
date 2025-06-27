@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <p>Get your 8am Coffee updates, every day. <span>Join our community!</span></p>
           </div>
         </div>
-        <a class="telegram-button" href="https://t.me/tu_canal" target="_blank" rel="noopener noreferrer">
+        <a class="telegram-button" href="https://t.me/+OzSlqlxRigE3MzA8" target="_blank" rel="noopener noreferrer">
           Join NOW for free!
         </a>
       `;
