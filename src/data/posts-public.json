@@ -1,38 +1,32 @@
 [
   {
-    "name": "posts-public.json",
-    "path": "src/data/posts-public.json",
-    "sha": "c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
-    "size": 707,
-    "url": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
-    "html_url": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json",
-    "git_url": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
-    "download_url": "https://raw.githubusercontent.com/eurogar88/8amcoffee/main/src/data/posts-public.json",
-    "type": "file",
-    "content": "WwogIHsKICAgICJ0aXRsZSI6ICJIb3cgR1BULTRvIFdpbGwgQ2hhbmdlIEV2\nZXJ5dGhpbmciLAogICAgImRhdGUiOiAiMjAyNS0wNi0yNiIsCiAgICAic2x1\nZyI6ICJvcGVuYWktbmV3LW1vZGVsIiwKICAgICJjb250ZW50IjogIkdQVC00\nbyByZXByZXNlbnRzIGEgbWFqb3Igc2hpZnQgaW4gQUktaHVtYW4gaW50ZXJh\nY3Rpb24uIEl04oCZcyBtdWx0aW1vZGFsLCBtb3JlIGVmZmljaWVudCwgYW5k\nIG1vcmUgaW50dWl0aXZlLiBEZXZlbG9wZXJzIHdpbGwgYnVpbGQgYXBwcyBm\nYXN0ZXIsIGFuZCB1c2VycyB3aWxsIGV4cGVyaWVuY2Ugc21vb3RoZXIgY29u\ndmVyc2F0aW9ucyB3aXRoIG1hY2hpbmVzLiBUaGlzIGV2b2x1dGlvbiByZWR1\nY2VzIGhhbGx1Y2luYXRpb25zIGFuZCBpbXByb3ZlcyBjb250ZXh0IHJldGVu\ndGlvbiBhY3Jvc3MgbW9kYWxpdGllcy4gVGhlIHJlYWwgYnJlYWt0aHJvdWdo\nIGlzIHRoYXQgdGhpcyBtb2RlbCBmaW5hbGx5IGZlZWxzIGxpa2UgeW91J3Jl\nIHRhbGtpbmcgdG8gYSBwZXJzb24uIFdl4oCZcmUgZW50ZXJpbmcgYW4gZXJh\nIHdoZXJlIEFJIHdpbGwgYXVnbWVudCBuZWFybHkgZXZlcnkga25vd2xlZGdl\nIHdvcmtlciwgd2l0aCB2b2ljZSBhbmQgdmlzaW9uIGF0IHRoZSBjb3JlLiIs\nCiAgICAidXJsIjogImh0dHBzOi8vd3d3LmV2b2x1dGlvbi5haS9wb3N0L2Ns\nYXVkZS12cy1ncHQtNG8tdnMtZ2VtaW5pIgogIH0KXQo=\n",
-    "encoding": "base64",
-    "_links": {
-      "self": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
-      "git": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
-      "html": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json"
-    }
+    "title": "🚦 AI vs. Reckless Driving: Obvio's Stop Sign Cameras Lead the Charge",
+    "date": "2025-06-29T21:22:31.080Z",
+    "slug": "489775-ai-vs-reckless-driving-obvios-stop-sign-cameras-lead-the-charge",
+    "url": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/"
   },
   {
-    "name": "posts-public.json",
-    "path": "src/data/posts-public.json",
-    "sha": "c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
-    "size": 707,
-    "url": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
-    "html_url": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json",
-    "git_url": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
-    "download_url": "https://raw.githubusercontent.com/eurogar88/8amcoffee/main/src/data/posts-public.json",
-    "type": "file",
-    "content": "WwogIHsKICAgICJ0aXRsZSI6ICJIb3cgR1BULTRvIFdpbGwgQ2hhbmdlIEV2\nZXJ5dGhpbmciLAogICAgImRhdGUiOiAiMjAyNS0wNi0yNiIsCiAgICAic2x1\nZyI6ICJvcGVuYWktbmV3LW1vZGVsIiwKICAgICJjb250ZW50IjogIkdQVC00\nbyByZXByZXNlbnRzIGEgbWFqb3Igc2hpZnQgaW4gQUktaHVtYW4gaW50ZXJh\nY3Rpb24uIEl04oCZcyBtdWx0aW1vZGFsLCBtb3JlIGVmZmljaWVudCwgYW5k\nIG1vcmUgaW50dWl0aXZlLiBEZXZlbG9wZXJzIHdpbGwgYnVpbGQgYXBwcyBm\nYXN0ZXIsIGFuZCB1c2VycyB3aWxsIGV4cGVyaWVuY2Ugc21vb3RoZXIgY29u\ndmVyc2F0aW9ucyB3aXRoIG1hY2hpbmVzLiBUaGlzIGV2b2x1dGlvbiByZWR1\nY2VzIGhhbGx1Y2luYXRpb25zIGFuZCBpbXByb3ZlcyBjb250ZXh0IHJldGVu\ndGlvbiBhY3Jvc3MgbW9kYWxpdGllcy4gVGhlIHJlYWwgYnJlYWt0aHJvdWdo\nIGlzIHRoYXQgdGhpcyBtb2RlbCBmaW5hbGx5IGZlZWxzIGxpa2UgeW91J3Jl\nIHRhbGtpbmcgdG8gYSBwZXJzb24uIFdl4oCZcmUgZW50ZXJpbmcgYW4gZXJh\nIHdoZXJlIEFJIHdpbGwgYXVnbWVudCBuZWFybHkgZXZlcnkga25vd2xlZGdl\nIHdvcmtlciwgd2l0aCB2b2ljZSBhbmQgdmlzaW9uIGF0IHRoZSBjb3JlLiIs\nCiAgICAidXJsIjogImh0dHBzOi8vd3d3LmV2b2x1dGlvbi5haS9wb3N0L2Ns\nYXVkZS12cy1ncHQtNG8tdnMtZ2VtaW5pIgogIH0KXQo=\n",
-    "encoding": "base64",
-    "_links": {
-      "self": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
-      "git": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
-      "html": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json"
-    }
+    "title": "⚡ Nvidia Bets on AI to Fix Power Grid Strains—Caused by AI",
+    "date": "2025-06-29T21:22:31.081Z",
+    "slug": "589014-nvidia-bets-on-ai-to-fix-power-grid-strainscaused-by-ai",
+    "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/"
+  },
+  {
+    "title": "☀️ Microsoft Powers Up AI Centers with 475 MW of Solar Energy",
+    "date": "2025-06-29T21:22:31.081Z",
+    "slug": "122954-microsoft-powers-up-ai-centers-with-475-mw-of-solar-energy",
+    "url": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/"
+  },
+  {
+    "title": "🔋 Meta Supercharges AI Ambitions with 650 MW of Solar Power",
+    "date": "2025-06-29T21:22:31.081Z",
+    "slug": "835019-meta-supercharges-ai-ambitions-with-650-mw-of-solar-power",
+    "url": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/"
+  },
+  {
+    "title": "🌎 2025: The Year Climate Tech Falls for AI",
+    "date": "2025-06-29T21:22:31.081Z",
+    "slug": "180472-2025-the-year-climate-tech-falls-for-ai",
+    "url": "https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/"
   }
 ]
