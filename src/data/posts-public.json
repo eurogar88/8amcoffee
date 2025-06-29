@@ -1,9 +1,38 @@
 [
   {
-    "title": "How GPT-4o Will Change Everything",
-    "date": "2025-06-26",
-    "slug": "openai-new-model",
-    "content": "GPT-4o represents a major shift in AI-human interaction. It’s multimodal, more efficient, and more intuitive. Developers will build apps faster, and users will experience smoother conversations with machines. This evolution reduces hallucinations and improves context retention across modalities. The real breakthrough is that this model finally feels like you're talking to a person. We’re entering an era where AI will augment nearly every knowledge worker, with voice and vision at the core.",
-    "url": "https://www.evolution.ai/post/claude-vs-gpt-4o-vs-gemini"
+    "name": "posts-public.json",
+    "path": "src/data/posts-public.json",
+    "sha": "c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
+    "size": 707,
+    "url": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
+    "html_url": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json",
+    "git_url": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
+    "download_url": "https://raw.githubusercontent.com/eurogar88/8amcoffee/main/src/data/posts-public.json",
+    "type": "file",
+    "content": "WwogIHsKICAgICJ0aXRsZSI6ICJIb3cgR1BULTRvIFdpbGwgQ2hhbmdlIEV2\nZXJ5dGhpbmciLAogICAgImRhdGUiOiAiMjAyNS0wNi0yNiIsCiAgICAic2x1\nZyI6ICJvcGVuYWktbmV3LW1vZGVsIiwKICAgICJjb250ZW50IjogIkdQVC00\nbyByZXByZXNlbnRzIGEgbWFqb3Igc2hpZnQgaW4gQUktaHVtYW4gaW50ZXJh\nY3Rpb24uIEl04oCZcyBtdWx0aW1vZGFsLCBtb3JlIGVmZmljaWVudCwgYW5k\nIG1vcmUgaW50dWl0aXZlLiBEZXZlbG9wZXJzIHdpbGwgYnVpbGQgYXBwcyBm\nYXN0ZXIsIGFuZCB1c2VycyB3aWxsIGV4cGVyaWVuY2Ugc21vb3RoZXIgY29u\ndmVyc2F0aW9ucyB3aXRoIG1hY2hpbmVzLiBUaGlzIGV2b2x1dGlvbiByZWR1\nY2VzIGhhbGx1Y2luYXRpb25zIGFuZCBpbXByb3ZlcyBjb250ZXh0IHJldGVu\ndGlvbiBhY3Jvc3MgbW9kYWxpdGllcy4gVGhlIHJlYWwgYnJlYWt0aHJvdWdo\nIGlzIHRoYXQgdGhpcyBtb2RlbCBmaW5hbGx5IGZlZWxzIGxpa2UgeW91J3Jl\nIHRhbGtpbmcgdG8gYSBwZXJzb24uIFdl4oCZcmUgZW50ZXJpbmcgYW4gZXJh\nIHdoZXJlIEFJIHdpbGwgYXVnbWVudCBuZWFybHkgZXZlcnkga25vd2xlZGdl\nIHdvcmtlciwgd2l0aCB2b2ljZSBhbmQgdmlzaW9uIGF0IHRoZSBjb3JlLiIs\nCiAgICAidXJsIjogImh0dHBzOi8vd3d3LmV2b2x1dGlvbi5haS9wb3N0L2Ns\nYXVkZS12cy1ncHQtNG8tdnMtZ2VtaW5pIgogIH0KXQo=\n",
+    "encoding": "base64",
+    "_links": {
+      "self": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
+      "git": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
+      "html": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json"
+    }
+  },
+  {
+    "name": "posts-public.json",
+    "path": "src/data/posts-public.json",
+    "sha": "c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
+    "size": 707,
+    "url": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
+    "html_url": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json",
+    "git_url": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
+    "download_url": "https://raw.githubusercontent.com/eurogar88/8amcoffee/main/src/data/posts-public.json",
+    "type": "file",
+    "content": "WwogIHsKICAgICJ0aXRsZSI6ICJIb3cgR1BULTRvIFdpbGwgQ2hhbmdlIEV2\nZXJ5dGhpbmciLAogICAgImRhdGUiOiAiMjAyNS0wNi0yNiIsCiAgICAic2x1\nZyI6ICJvcGVuYWktbmV3LW1vZGVsIiwKICAgICJjb250ZW50IjogIkdQVC00\nbyByZXByZXNlbnRzIGEgbWFqb3Igc2hpZnQgaW4gQUktaHVtYW4gaW50ZXJh\nY3Rpb24uIEl04oCZcyBtdWx0aW1vZGFsLCBtb3JlIGVmZmljaWVudCwgYW5k\nIG1vcmUgaW50dWl0aXZlLiBEZXZlbG9wZXJzIHdpbGwgYnVpbGQgYXBwcyBm\nYXN0ZXIsIGFuZCB1c2VycyB3aWxsIGV4cGVyaWVuY2Ugc21vb3RoZXIgY29u\ndmVyc2F0aW9ucyB3aXRoIG1hY2hpbmVzLiBUaGlzIGV2b2x1dGlvbiByZWR1\nY2VzIGhhbGx1Y2luYXRpb25zIGFuZCBpbXByb3ZlcyBjb250ZXh0IHJldGVu\ndGlvbiBhY3Jvc3MgbW9kYWxpdGllcy4gVGhlIHJlYWwgYnJlYWt0aHJvdWdo\nIGlzIHRoYXQgdGhpcyBtb2RlbCBmaW5hbGx5IGZlZWxzIGxpa2UgeW91J3Jl\nIHRhbGtpbmcgdG8gYSBwZXJzb24uIFdl4oCZcmUgZW50ZXJpbmcgYW4gZXJh\nIHdoZXJlIEFJIHdpbGwgYXVnbWVudCBuZWFybHkgZXZlcnkga25vd2xlZGdl\nIHdvcmtlciwgd2l0aCB2b2ljZSBhbmQgdmlzaW9uIGF0IHRoZSBjb3JlLiIs\nCiAgICAidXJsIjogImh0dHBzOi8vd3d3LmV2b2x1dGlvbi5haS9wb3N0L2Ns\nYXVkZS12cy1ncHQtNG8tdnMtZ2VtaW5pIgogIH0KXQo=\n",
+    "encoding": "base64",
+    "_links": {
+      "self": "https://api.github.com/repos/eurogar88/8amcoffee/contents/src/data/posts-public.json?ref=main",
+      "git": "https://api.github.com/repos/eurogar88/8amcoffee/git/blobs/c8edd362ab71bce3ccdbf0a05e8ede697b8cb121",
+      "html": "https://github.com/eurogar88/8amcoffee/blob/main/src/data/posts-public.json"
+    }
   }
 ]
