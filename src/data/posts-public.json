@@ -1,60 +1,5 @@
 [
   {
-    "row_number": 76,
-    "title": "🚦 AI with a License: Obvio Uses Smart Cameras to Catch Unsafe Drivers",
-    "summary": "In the latest artificial intelligence news, Obvio is deploying AI-powered stop sign cameras to identify reckless drivers and boost road safety in real-time. By combining traffic tech and machine learning, AI is taking a front-seat role in public safety reforms.",
-    "date": "2025-06-29T17:44:12.490Z",
-    "slug": "855046-ai-with-a-license-obvio-uses-smart-cameras-to-catch-unsafe-drivers",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 77,
-    "title": "☀️ Solar Surge: Meta Powers Its AI Future with 650 MW of Clean Energy",
-    "summary": "Meta takes another major step in sustainable AI development by adding 650 megawatts of solar energy to fuel its massive AI infrastructure. This move underscores the growing trend to align artificial intelligence news with clean energy goals.",
-    "date": "2025-06-29T17:44:12.490Z",
-    "slug": "758112-solar-surge-meta-powers-its-ai-future-with-650-mw-of-clean-energy",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 78,
-    "title": "🔌 Meta-Problem, Meta-Solution: Nvidia Says AI Can Fix the Grid It Overloads",
-    "summary": "AI news from Nvidia reveals an irony: AI may be the cure for the very energy grid stress it causes. Their latest research suggests artificial intelligence could optimize electricity usage, helping stabilize power demands created by AI systems.",
-    "date": "2025-06-29T17:44:12.491Z",
-    "slug": "178676-meta-problem-meta-solution-nvidia-says-ai-can-fix-the-grid-it-overloads",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 79,
-    "title": "⚡ Microsoft Adds 475 MW of Solar to Power AI Data Centers",
-    "summary": "In a major leap toward sustainable AI, Microsoft adds 475 megawatts of solar power to energize its expanding AI data centers. This marks another milestone where artificial intelligence news intersects with clean energy innovation.",
-    "date": "2025-06-29T17:44:12.491Z",
-    "slug": "643089-microsoft-adds-475-mw-of-solar-to-power-ai-data-centers",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 80,
-    "title": "🚗 AI Gets Under the Hood: Self Inspection Raises $3M for Smart Vehicle Checks",
-    "summary": "AI-powered auto inspections shift into gear with Self Inspection’s $3M seed round. This startup is reinventing car diagnostics using artificial intelligence, streamlining the check-up process for fleets and drivers alike. Big moves in ai news!",
-    "date": "2025-06-29T17:44:12.491Z",
-    "slug": "386547-ai-gets-under-the-hood-self-inspection-raises-3m-for-smart-vehicle-checks",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
     "row_number": 81,
     "title": "🚓 AI Tackles Dangerous Drivers with Smart Stop Sign Cameras",
     "summary": "Artificial intelligence news alert: Obvio is using AI-powered cameras at stop signs to detect and deter unsafe driving behavior. This tech aims to boost traffic safety by analyzing how drivers respond to stop signs — a promising solution for smarter streets.",
@@ -1646,6 +1591,61 @@
     "slug": "1d4a9a-what-does-this-object-really-do-ai-learns-to-classify-states",
     "topic": "AI",
     "url_origin": "https://aihub.org/2025/05/20/interview-with-filippos-gouidis-object-state-classification/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 226,
+    "title": "🚦 AI Targets Traffic Trouble: Obvio's Stop Sign Cameras Crack Down on Unsafe Driving",
+    "summary": "In one of the latest artificial intelligence news highlights, Obvio's new smart cameras use AI at stop signs to detect and reduce reckless driving behavior. By analyzing driver actions in real time, the technology aims to boost road safety with smart, automated enforcement.",
+    "date": "2025-06-30T14:36:44.302Z",
+    "slug": "dee7d6-ai-targets-traffic-trouble-obvios-stop-sign-cameras-crack-down-on-unsafe-driving",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 227,
+    "title": "☀️ Meta Supercharges AI with 650 MW of Solar Power",
+    "summary": "Meta adds 650 megawatts of solar energy to power the growing infrastructure behind its AI systems. This move underlines a growing trend in AI news: building sustainable computing resources to support artificial intelligence at scale.",
+    "date": "2025-06-30T14:36:44.302Z",
+    "slug": "0a7cb5-meta-supercharges-ai-with-650-mw-of-solar-power",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 228,
+    "title": "📚 OpenAI Empowers Devs to Build Smart Research Agents",
+    "summary": "In this artificial intelligence news update, OpenAI is helping developers build next-gen autonomous research agents. These tools aim to perform in-depth data searches and analysis, taking a step toward more intelligent and helpful AI capabilities.",
+    "date": "2025-06-30T14:36:44.302Z",
+    "slug": "1caf2f-openai-empowers-devs-to-build-smart-research-agents",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/openai-is-teaching-developers-how-to-build-deep-research-agents/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 229,
+    "title": "⚡ Nvidia's Blackwell Breaks Records in AI Training",
+    "summary": "Nvidia’s latest Blackwell GPU architecture has smashed the MLPerf benchmark for large language model training. This AI news illustrates the rapid performance leap in AI hardware powering the future of deep learning and LLM development.",
+    "date": "2025-06-30T14:36:44.302Z",
+    "slug": "de7b93-nvidias-blackwell-breaks-records-in-ai-training",
+    "topic": "AI",
+    "url_origin": "https://spectrum.ieee.org/nvidia-blackwell-mlperf-training-5",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 230,
+    "title": "🧪 Fixing AI’s Evaluation Crisis: What’s at Stake?",
+    "summary": "A deep dive into one of today’s critical artificial intelligence news topics: the AI evaluation gap. Experts highlight that inconsistent benchmarks and flawed testing methods could misguide progress—and propose ways to ensure AI systems are assessed more reliably.",
+    "date": "2025-06-30T14:36:44.302Z",
+    "slug": "bd6e2e-fixing-ais-evaluation-crisis-whats-at-stake",
+    "topic": "AI",
+    "url_origin": "https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/",
     "post_body": "",
     "post_image": ""
   }
