@@ -1,5 +1,60 @@
 [
   {
+    "row_number": 191,
+    "title": "🌞 Meta Supercharges AI with 650 MW of Solar Power",
+    "summary": "In the latest artificial intelligence news, Meta has committed to adding 650 megawatts of solar energy to support the growing demand of its AI infrastructure. This signals a stronger link between sustainability and AI innovation as big tech goes greener to fuel smarter systems.",
+    "date": "2025-06-30T12:34:22.122Z",
+    "slug": "8a37dd-meta-supercharges-ai-with-650-mw-of-solar-power",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 192,
+    "title": "⚡ Microsoft Powers Up AI with 475 MW of Clean Solar Energy",
+    "summary": "Microsoft is taking another step toward sustainable AI by securing 475 MW of solar energy to fuel its growing network of AI data centers. This move reflects an ongoing trend in artificial intelligence news where tech giants are aligning green energy with AI expansion.",
+    "date": "2025-06-30T12:34:22.122Z",
+    "slug": "75a3d4-microsoft-powers-up-ai-with-475-mw-of-clean-solar-energy",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 193,
+    "title": "🤖 Nvidia Says AI Can Fix the Grid Problems... Caused by AI",
+    "summary": "In a surprising twist in AI news, Nvidia proposes that artificial intelligence could be the very solution to the power grid issues triggered by the exploding demands of AI systems. The company envisions AI-powered management as key to balancing energy needs.",
+    "date": "2025-06-30T12:34:22.122Z",
+    "slug": "669881-nvidia-says-ai-can-fix-the-grid-problems-caused-by-ai",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 194,
+    "title": "🚀 Elon Musk Tapped by NASA to Tackle AI Challenges on Mars",
+    "summary": "Elon Musk and NASA are teaming up to address AI reliability in future Mars colonies. As part of the latest artificial intelligence news, this unlikely alliance highlights the importance of advanced AI in sustaining life and operations beyond Earth.",
+    "date": "2025-06-30T12:34:22.122Z",
+    "slug": "db821a-elon-musk-tapped-by-nasa-to-tackle-ai-challenges-on-mars",
+    "topic": "AI",
+    "url_origin": "https://aibusiness.com/automation/elon-musk-nasa-mars-colony-ai-issues/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 195,
+    "title": "🛡️ OpenAI Secures $200M Defense Contract for AI Development",
+    "summary": "OpenAI lands a $200 million deal to build artificial intelligence tools for defense purposes, shaping a new frontier in AI news. This major contract underscores AI's expanding role in national security and advanced strategic operations worldwide.",
+    "date": "2025-06-30T12:34:22.122Z",
+    "slug": "91d752-openai-secures-200m-defense-contract-for-ai-development",
+    "topic": "AI",
+    "url_origin": "https://aibusiness.com/nlp/openai-awarded-200m-contract-to-develop-ai-for-defense/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
     "row_number": 187,
     "title": "⚡ Powering AI with AI? Nvidia Aims to Fix Grid Issues It Helped Create",
     "summary": "In a twist of artificial intelligence news, Nvidia believes AI can solve the strain AI places on power grids. As energy demand skyrockets due to data centers, Nvidia is working on solutions where AI literally powers AI.",
