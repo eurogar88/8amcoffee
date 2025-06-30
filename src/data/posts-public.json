@@ -1,5 +1,60 @@
 [
   {
+    "row_number": 182,
+    "title": "⚡ Nvidia Uses AI to Fix Problems... Caused by AI",
+    "summary": "In a twist in AI news, Nvidia proposes using artificial intelligence to optimize energy demands on the grid—issues ironically fueled by power-hungry AI systems themselves. Can AI solve the problems it's creating? Nvidia believes so.",
+    "date": "2025-06-30T00:12:21.857Z",
+    "slug": "113470-nvidia-uses-ai-to-fix-problems-caused-by-ai",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 183,
+    "title": "☀️ Microsoft Powers AI Data With 475 MW of Solar",
+    "summary": "Sustainability meets artificial intelligence news: Microsoft secures 475 megawatts of solar energy to fuel its growing AI data centers. The move highlights tech giants' push for greener AI infrastructure in a power-hungry digital age.",
+    "date": "2025-06-30T00:12:21.857Z",
+    "slug": "740869-microsoft-powers-ai-data-with-475-mw-of-solar",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 184,
+    "title": "💰 The 49 AI Startups That Raised $100M+ in 2024",
+    "summary": "AI news spotlight: A record-breaking 49 U.S. startups raised over $100 million each in 2024. Explore this full list of rising AI stars revolutionizing sectors from health to finance and shaping the next generation of artificial intelligence.",
+    "date": "2025-06-30T00:12:21.857Z",
+    "slug": "264135-the-49-ai-startups-that-raised-100m-in-2024",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 185,
+    "title": "🧠 OpenAI Trains Devs to Build Deep Research Agents",
+    "summary": "Artificial intelligence news: OpenAI launches a new program to help developers build ‘deep research agents’—systems capable of performing complex, autonomous investigations. This could redefine how AI supports scientific discovery and more.",
+    "date": "2025-06-30T00:12:21.857Z",
+    "slug": "312077-openai-trains-devs-to-build-deep-research-agents",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/openai-is-teaching-developers-how-to-build-deep-research-agents/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 181,
+    "title": "🚦 AI-Powered Stop Signs Catch Risky Drivers",
+    "summary": "Artificial Intelligence news: Obvio is transforming traffic safety with AI-driven stop sign cameras designed to detect and deter dangerous driving behavior. This innovation promises smarter roads by tracking unsafe motorists in real-time.",
+    "date": "2025-06-30T00:12:21.856Z",
+    "slug": "375708-ai-powered-stop-signs-catch-risky-drivers",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
     "row_number": 176,
     "title": "🚦AI Tackles Traffic Offenders with Smart Stop Sign Cameras",
     "summary": "Obvio introduces stop sign cameras powered by artificial intelligence to detect and report reckless drivers. This innovation marks a new chapter in AI news, enhancing road safety through real-time automated monitoring and data-driven enforcement.",
