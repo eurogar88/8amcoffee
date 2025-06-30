@@ -1,5 +1,60 @@
 [
   {
+    "row_number": 187,
+    "title": "⚡ Powering AI with AI? Nvidia Aims to Fix Grid Issues It Helped Create",
+    "summary": "In a twist of artificial intelligence news, Nvidia believes AI can solve the strain AI places on power grids. As energy demand skyrockets due to data centers, Nvidia is working on solutions where AI literally powers AI.",
+    "date": "2025-06-30T12:26:35.905Z",
+    "slug": "f82d08-powering-ai-with-ai-nvidia-aims-to-fix-grid-issues-it-helped-create",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 188,
+    "title": "☀️ Microsoft Powers Up AI with 475 MW of Solar Energy",
+    "summary": "Green meets AI in this latest AI news headline: Microsoft is adding 475 megawatts of solar energy to fuel its growing network of AI data centers. The move highlights a push toward sustainable infrastructure for artificial intelligence solutions.",
+    "date": "2025-06-30T12:26:35.905Z",
+    "slug": "56952b-microsoft-powers-up-ai-with-475-mw-of-solar-energy",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 189,
+    "title": "📺 YouTube’s AI Upgrades: Auto-Dubs, Age Detection & More",
+    "summary": "YouTube rolls out a batch of new artificial intelligence tools, including expanded auto-dubbing and age-identification tech. This AI news marks another major leap in how platforms use intelligent systems to personalize and moderate content at scale.",
+    "date": "2025-06-30T12:26:35.905Z",
+    "slug": "161fed-youtubes-ai-upgrades-auto-dubs-age-detection-more",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 190,
+    "title": "📈 Nvidia Regains Top Spot Thanks to Surging AI Momentum",
+    "summary": "Nvidia is back on top as the most valuable company, driven by an unstoppable wave of artificial intelligence growth. This major headline in AI news underscores how core the chip maker has become in the global AI ecosystem.",
+    "date": "2025-06-30T12:26:35.905Z",
+    "slug": "e1811d-nvidia-regains-top-spot-thanks-to-surging-ai-momentum",
+    "topic": "AI",
+    "url_origin": "https://www.artificialintelligence-news.com/news/nvidia-reclaims-title-of-most-valuable-company-on-ai-momentum/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 186,
+    "title": "🚦 AI Tackles Traffic: Obvio Uses Smart Cameras to Spot Unsafe Drivers",
+    "summary": "In a fresh wave of AI news, startup Obvio is equipping stop signs with AI-powered cameras to detect and report risky driver behavior. Aiming to improve road safety, this innovation reflects a growing trend in applying artificial intelligence to real-world problems.",
+    "date": "2025-06-30T12:26:35.904Z",
+    "slug": "264c56-ai-tackles-traffic-obvio-uses-smart-cameras-to-spot-unsafe-drivers",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
     "row_number": 182,
     "title": "⚡ Nvidia Uses AI to Fix Problems... Caused by AI",
     "summary": "In a twist in AI news, Nvidia proposes using artificial intelligence to optimize energy demands on the grid—issues ironically fueled by power-hungry AI systems themselves. Can AI solve the problems it's creating? Nvidia believes so.",
