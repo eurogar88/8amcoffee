@@ -1,60 +1,5 @@
 [
   {
-    "row_number": 71,
-    "title": "🚦 AI Meets Traffic Safety: Obvio Targets Reckless Drivers",
-    "summary": "In the latest artificial intelligence news, Obvio is leveraging AI-powered stop sign cameras to identify and address dangerous driving behaviors. This tech-forward safety initiative aims to make roads safer by intelligently analyzing how drivers behave at intersections.",
-    "date": "2025-06-29T17:40:28.375Z",
-    "slug": "982172-ai-meets-traffic-safety-obvio-targets-reckless-drivers",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 72,
-    "title": "☀️ Meta Supercharges AI with 650 MW of Solar Energy",
-    "summary": "Meta is doubling down on green tech, adding 650 MW of solar energy to support its expanding AI ambitions. This move marks a key step in the company’s push for sustainability amid the rising power demands of artificial intelligence systems.",
-    "date": "2025-06-29T17:40:28.375Z",
-    "slug": "554663-meta-supercharges-ai-with-650-mw-of-solar-energy",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 73,
-    "title": "⚡ AI to the Rescue: Nvidia’s Bold Fix for AI-Powered Grid Strain",
-    "summary": "In surprising AI news, Nvidia believes AI itself can help solve the energy grid issues it helped create. The company is exploring advanced models to stabilize power usage as demand from artificial intelligence data centers continues to grow.",
-    "date": "2025-06-29T17:40:28.375Z",
-    "slug": "113090-ai-to-the-rescue-nvidias-bold-fix-for-ai-powered-grid-strain",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 74,
-    "title": "🌞 Microsoft Scales AI with 475 MW of Solar Power",
-    "summary": "Microsoft is expanding its AI infrastructure sustainably, adding 475 MW of solar energy to support its data centers. This solar investment aligns with growing trends in artificial intelligence news toward clean, renewable power for massive AI operations.",
-    "date": "2025-06-29T17:40:28.375Z",
-    "slug": "790278-microsoft-scales-ai-with-475-mw-of-solar-power",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
-    "row_number": 75,
-    "title": "🎧 ElevenLabs Empowers Writers with AI-Driven Audiobook Platform",
-    "summary": "ElevenLabs is revolutionizing publishing by enabling authors to create and release AI-generated audiobooks directly on its platform. This marks a major shift in content creation trends, blending creativity with artificial intelligence tools.",
-    "date": "2025-06-29T17:40:28.375Z",
-    "slug": "638238-elevenlabs-empowers-writers-with-ai-driven-audiobook-platform",
-    "topic": "AI",
-    "url_origin": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/",
-    "post_body": "",
-    "post_image": ""
-  },
-  {
     "row_number": 76,
     "title": "🚦 AI with a License: Obvio Uses Smart Cameras to Catch Unsafe Drivers",
     "summary": "In the latest artificial intelligence news, Obvio is deploying AI-powered stop sign cameras to identify reckless drivers and boost road safety in real-time. By combining traffic tech and machine learning, AI is taking a front-seat role in public safety reforms.",
@@ -1646,6 +1591,61 @@
     "slug": "8eda4d-can-ai-ease-teachers-workload-new-evidence-says-yes",
     "topic": "AI",
     "url_origin": "https://www.zdnet.com/article/can-ai-save-teachers-from-a-crushing-workload-theres-new-evidence-it-might/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 221,
+    "title": "🚦 AI Catches Rule Breakers: Obvio Uses Stop Sign Cameras to Boost Road Safety",
+    "summary": "In recent AI news, Obvio is installing AI-powered cameras at stop signs to detect and identify unsafe drivers. This innovative tech aims to reduce road accidents by using computer vision to monitor behavior more effectively than traditional methods.",
+    "date": "2025-06-30T14:23:19.312Z",
+    "slug": "0763f4-ai-catches-rule-breakers-obvio-uses-stop-sign-cameras-to-boost-road-safety",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 222,
+    "title": "⚡ AI Fixes What AI Broke? Nvidia Bets on AI to Save the Power Grid",
+    "summary": "In a surprising twist of artificial intelligence news, Nvidia believes AI might be the solution to power grid disruptions caused by... AI. The company explores how advanced AI models can optimize energy management amid growing demand from AI infrastructure.",
+    "date": "2025-06-30T14:23:19.312Z",
+    "slug": "447771-ai-fixes-what-ai-broke-nvidia-bets-on-ai-to-save-the-power-grid",
+    "topic": "AI",
+    "url_origin": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 223,
+    "title": "🚀 Nvidia’s GB200 Supercomputer Breaks Inference Speed Barriers",
+    "summary": "Cutting-edge AI news from Nvidia: their GB200 NVL72 supercomputer delivers 2.7× faster performance on DeepSeek V2 inference tasks. The breakthrough promises faster AI training and smarter applications across the board.",
+    "date": "2025-06-30T14:23:19.312Z",
+    "slug": "43851e-nvidias-gb200-supercomputer-breaks-inference-speed-barriers",
+    "topic": "AI",
+    "url_origin": "https://www.infoq.com/news/2025/06/nvidia-gb200/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 224,
+    "title": "🧠 DeepSeek-Prover V2 Pushes AI to Prove Theorems Like Never Before",
+    "summary": "Breaking new ground in artificial intelligence news: DeepSeek launches DeepSeek-Prover V2, a model capable of recursive proof search and rigorous logical reasoning. Paired with a new benchmark, it leapfrogs previous limits in neural theorem proving.",
+    "date": "2025-06-30T14:23:19.312Z",
+    "slug": "8bc0a8-deepseek-prover-v2-pushes-ai-to-prove-theorems-like-never-before",
+    "topic": "AI",
+    "url_origin": "https://syncedreview.com/2025/04/30/deepseek-unveils-deepseek-prover-v2-advancing-neural-theorem-proving-with-recursive-proof-search-and-a-new-benchmark/",
+    "post_body": "",
+    "post_image": ""
+  },
+  {
+    "row_number": 225,
+    "title": "🔍 What Does This Object Really Do? AI Learns to Classify States",
+    "summary": "In this fresh interview from the world of AI news, Filippos Gouidis discusses object state classification — teaching AI not just what an object is, but what it's doing. A big leap for context-aware AI applications.",
+    "date": "2025-06-30T14:23:19.312Z",
+    "slug": "1d4a9a-what-does-this-object-really-do-ai-learns-to-classify-states",
+    "topic": "AI",
+    "url_origin": "https://aihub.org/2025/05/20/interview-with-filippos-gouidis-object-state-classification/",
     "post_body": "",
     "post_image": ""
   }
