@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
         </div>
         <a class="telegram-button" href="https://t.me/coffee8am" target="_blank" rel="noopener noreferrer">
-          Join for free!
+          Join for free
         </a>
       `;
 
