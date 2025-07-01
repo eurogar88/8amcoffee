@@ -1,6 +1,6 @@
 ---
 import Layout from '../components/Layout.astro';
-import posts from '../data/posts-public.json';
+import posts from '../data/posts.json';
 
 export function getStaticPaths() {
   const dates = [...new Set(posts.map(p => p.date))];
