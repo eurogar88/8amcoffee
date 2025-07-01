@@ -52,6 +52,8 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   box-sizing:border-box;
   width:100%;
   overflow:hidden;
+  margin-inline:-2rem;   /* ❚ mismo ancho exacto que las .post          */
+  width:auto;            /* ❚ quitamos el 100 % que lo hacía “más corto” */
 }
 .telegram-banner:hover{transform:scale(1.02);box-shadow:0 4px 12px #0002;}
 
@@ -145,7 +147,10 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   .telegram-banner .telegram-left,
   .partner-left{gap:1rem;margin-bottom:.6rem;}
   .telegram-banner .telegram-button,
-  .partner-button{width:100%;}
+  .partner-button{
+    width:100%;
+    text-align:center;       /* asegura centrado también en móvil           */
+  }
 }
 
 /* ------------ Mobile ≤ 480 px ------------ */
