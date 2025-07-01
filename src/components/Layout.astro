@@ -13,19 +13,6 @@ const currentYear = new Date().getFullYear();
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/global.css" />
     {showCanonical && <link rel="canonical" href="https://8am.coffee/" />}
-
-    <!-- Mixpanel SDK -->
-    <script src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script>
-    <script is:inline>
-      // Reemplaza por tu token si cambia
-      mixpanel.init("28f8ba184732934626a5fc5de430e0ed", { debug: false });
-
-      // Page View en cada carga
-      mixpanel.track("Page View", {
-        path: window.location.pathname,
-        referrer: document.referrer || "direct"
-      });
-    </script>
   </head>
   <body>
     <header>
@@ -93,10 +80,19 @@ const currentYear = new Date().getFullYear();
 
     <script src="/inject-banner.js" defer></script>
 
-    <!-- Mixpanel event listeners -->
+    <!-- Mixpanel SDK + tracking moved to after body load -->
+    <script src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script>
     <script is:inline>
+      mixpanel.init("28f8ba184732934626a5fc5de430e0ed", { debug: false });
+
+      // Page View on load
+      mixpanel.track("Page View", {
+        path: window.location.pathname,
+        referrer: document.referrer || "direct"
+      });
+
+      // Event listeners
       document.addEventListener('DOMContentLoaded', () => {
-        // Prev / Next navigation
         document.getElementById('prevBtn')?.addEventListener('click', () =>
           mixpanel.track('Nav Click', { direction: 'previous', path: location.pathname })
         );
@@ -104,7 +100,6 @@ const currentYear = new Date().getFullYear();
           mixpanel.track('Nav Click', { direction: 'next', path: location.pathname })
         );
 
-        // Delegate Read-more clicks
         document.body.addEventListener('click', (e) => {
           const link = e.target.closest('a.read-more');
           if (!link) return;
