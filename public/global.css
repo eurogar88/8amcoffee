@@ -47,11 +47,11 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   justify-content:space-between;
   gap:1rem;
   margin-top:1rem;
-  flex-wrap:wrap;          /* ✨ permite saltos de línea cuando haga falta */
+  flex-wrap:nowrap;          /* 🆕 3-column layout en desktop           */
   transition:transform .2s ease,box-shadow .2s ease;
   box-sizing:border-box;
   width:100%;
-  overflow:hidden;         /* ✨ nunca deja salir nada del contenedor */
+  overflow:hidden;
 }
 .telegram-banner:hover{transform:scale(1.02);box-shadow:0 4px 12px #0002;}
 
@@ -59,9 +59,8 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   display:flex;
   align-items:center;
   gap:1rem;
-  flex:1;
+  flex:1;                     /* ocupa la columna central               */
   min-width:0;
-  flex-wrap:wrap;          /* ✨ texto/icono se parte si no cabe */
 }
 .telegram-banner img{width:48px;height:48px;flex-shrink:0;border-radius:12px;}
 .telegram-banner strong{font-size:1.1rem;color:#111;display:block;margin-bottom:.25rem;word-break:break-word;}
@@ -69,9 +68,9 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
 .telegram-banner span{font-weight:bold;color:#a07cff;}
 
 .telegram-banner .telegram-button{
-  display:block;            /* ✨ ocupa toda la línea */
-  width:100%;               /* ✨ ancho fluido */
-  box-sizing:border-box;    /* ✨ padding y borde dentro del 100 % */
+  display:inline-block;
+  /* 🆕  ancho auto en desktop, 100 % en mobile (más abajo) */
+  width:auto;
   background:#a07cff;
   color:#fff;
   padding:0.5rem 1rem;
@@ -80,29 +79,9 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   font-weight:bold;
   font-size:.9rem;
   transition:background .2s ease-in-out;
-  white-space:normal;       /* ✨ permite partir texto si fuera necesario */
+  white-space:nowrap;
 }
 .telegram-banner .telegram-button:hover{background:#8d64f5;}
-
-/* ---------- Breakpoints ---------- */
-@media(min-width:768px){.post{margin-inline:-2rem;}}
-
-/* ------------ Mobile ≤ 600 px ------------ */
-@media(max-width:600px){
-  .telegram-banner{flex-direction:column;align-items:stretch;}
-  .telegram-banner .telegram-left{gap:1rem;margin-bottom:.6rem;}
-}
-
-/* ------------ Mobile ≤ 480 px ------------ */
-@media(max-width:480px){
-  .pagination{gap:.5rem;}
-  .pagination .nav-btn{font-size:0;padding:.35rem .6rem;min-width:auto;}
-  .pagination #prevBtn::before{content:"Prev. Day";font-size:.85rem;color:inherit;}
-  .pagination #nextBtn::before{content:"Next Day";font-size:.85rem;color:inherit;}
-
-  .telegram-banner{padding:1.1rem .9rem;margin-inline:0;}
-  .telegram-banner .telegram-left{gap:.8rem;margin-bottom:.8rem;}
-}
 
 /* ---------- Partner Banner (Integra 8am Coffee) ---------- */
 .partner-banner{
@@ -116,7 +95,7 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   justify-content:space-between;
   gap:1rem;
   margin-top:1rem;
-  flex-wrap:wrap;
+  flex-wrap:nowrap;          /* 🆕 igual que Telegram */
   transition:transform .2s ease,box-shadow .2s ease;
   overflow:hidden;
   box-sizing:border-box;
@@ -129,18 +108,14 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   gap:1rem;
   flex:1;
   min-width:0;
-  flex-wrap:wrap;
 }
-.partner-left img{
-  width:48px;height:48px;flex-shrink:0;border-radius:12px;
-}
+.partner-left img{width:48px;height:48px;flex-shrink:0;border-radius:12px;}
 .partner-left strong{font-size:1.1rem;color:#111;display:block;margin-bottom:.25rem;word-break:break-word;}
-.partner-left p     {font-size:.95rem;color:#555;margin:0;word-break:break-word;}
+.partner-left p{font-size:.95rem;color:#555;margin:0;word-break:break-word;}
 
 .partner-button{
-  display:block;
-  width:100%;
-  box-sizing:border-box;
+  display:inline-block;
+  width:auto;                /* 🆕 auto en desktop */
   background:#ffb400;
   color:#fff;
   padding:0.5rem 1rem;
@@ -150,15 +125,41 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   font-size:.9rem;
   text-align:center;
   transition:background .2s ease-in-out;
+  white-space:nowrap;
 }
 .partner-button:hover{background:#e49e00;}
 
-/* ===== Ajustes responsive heredados ===== */
-@media (max-width:600px){
-  .partner-banner{flex-direction:column;align-items:stretch;}
-  .partner-left   {gap:1rem;margin-bottom:.6rem;}
+/* ---------- Breakpoints ---------- */
+@media(min-width:768px){
+  .post{margin-inline:-2rem;}
+  /* 🆕 banners mismo ancho que las cards */
+  .telegram-banner,
+  .partner-banner{margin-inline:-2rem;}
 }
-@media (max-width:480px){
+
+/* ------------ Mobile ≤ 600 px ------------ */
+@media(max-width:600px){
+  .telegram-banner,
+  .partner-banner{
+    flex-direction:column;
+    align-items:stretch;
+  }
+  .telegram-banner .telegram-left,
+  .partner-left{gap:1rem;margin-bottom:.6rem;}
+  /* botón a todo ancho en mobile */
+  .telegram-banner .telegram-button,
+  .partner-button{width:100%;}
+}
+
+/* ------------ Mobile ≤ 480 px ------------ */
+@media(max-width:480px){
+  .pagination{gap:.5rem;}
+  .pagination .nav-btn{font-size:0;padding:.35rem .6rem;min-width:auto;}
+  .pagination #prevBtn::before{content:"Prev. Day";font-size:.85rem;color:inherit;}
+  .pagination #nextBtn::before{content:"Next Day";font-size:.85rem;color:inherit;}
+
+  .telegram-banner,
   .partner-banner{padding:1.1rem .9rem;margin-inline:0;}
-  .partner-left  {gap:.8rem;margin-bottom:.8rem;}
+  .telegram-banner .telegram-left,
+  .partner-left{gap:.8rem;margin-bottom:.8rem;}
 }
