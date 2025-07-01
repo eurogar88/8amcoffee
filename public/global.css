@@ -91,7 +91,7 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   /* Compactar botones Prev / Next */
   .pagination{gap:.5rem;}
   .pagination .nav-btn{font-size:0;padding:.35rem .6rem;min-width:auto;}
-  .pagination #prevBtn::before{content:"Prev. Day";font-size:.85rem;color:inherit;}
+  .pagination #prevBtn::before{content:"Previous Day";font-size:.85rem;color:inherit;}
   .pagination #nextBtn::before{content:"Next Day";font-size:.85rem;color:inherit;}
 
   /* Banner totalmente fluido */
