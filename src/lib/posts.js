@@ -1,5 +1,5 @@
 export async function getAllPosts() {
-  const res = await fetch('/data/posts.json');
+  const res = await fetch('/data/posts-public.json');
   const posts = await res.json();
   return posts;
 }
