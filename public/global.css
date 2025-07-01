@@ -2,6 +2,7 @@
 
 /* ---------- Base ---------- */
 body{font-family:system-ui,sans-serif;background:#fbfbff;color:#222;margin:0;padding:0 1rem;max-width:700px;margin-inline:auto;}
+/* Black: filter: brightness(0); */  /* Grey: filter: brightness(0.3); */  /* Grey scale: filter: grayscale(100%); */ /* Pale: filter: brightness(0.8) contrast(90%); */ /* More white: filter: invert(100%) brightness(1.2); */
 header{text-align:center;margin:2rem 0 1rem;}
 .logo-link{display:inline-block;width:220px;margin:0 auto 0;text-align:center;}
 .logo{filter:brightness(0.3);max-width:220px;width:100%;height:auto;}
