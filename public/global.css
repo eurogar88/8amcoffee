@@ -47,21 +47,31 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   justify-content:space-between;
   gap:1rem;
   margin-top:1rem;
-  flex-wrap:wrap;
+  flex-wrap:wrap;          /* ✨ permite saltos de línea cuando haga falta */
   transition:transform .2s ease,box-shadow .2s ease;
-  box-sizing:border-box;          /* ✅ garantiza ancho correcto */
-  width:100%;                    /* ✅ nunca excede el contenedor */
+  box-sizing:border-box;
+  width:100%;
+  overflow:hidden;         /* ✨ nunca deja salir nada del contenedor */
 }
 .telegram-banner:hover{transform:scale(1.02);box-shadow:0 4px 12px #0002;}
 
-.telegram-banner .telegram-left{display:flex;align-items:center;gap:1rem;flex:1;min-width:0;}
+.telegram-banner .telegram-left{
+  display:flex;
+  align-items:center;
+  gap:1rem;
+  flex:1;
+  min-width:0;
+  flex-wrap:wrap;          /* ✨ texto/icono se parte si no cabe */
+}
 .telegram-banner img{width:48px;height:48px;flex-shrink:0;border-radius:12px;}
 .telegram-banner strong{font-size:1.1rem;color:#111;display:block;margin-bottom:.25rem;word-break:break-word;}
 .telegram-banner p{font-size:.95rem;color:#555;margin:0;word-break:break-word;}
 .telegram-banner span{font-weight:bold;color:#a07cff;}
 
 .telegram-banner .telegram-button{
-  display:inline-block;
+  display:block;            /* ✨ ocupa toda la línea */
+  width:100%;               /* ✨ ancho fluido */
+  box-sizing:border-box;    /* ✨ padding y borde dentro del 100 % */
   background:#a07cff;
   color:#fff;
   padding:0.5rem 1rem;
@@ -70,8 +80,7 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   font-weight:bold;
   font-size:.9rem;
   transition:background .2s ease-in-out;
-  white-space:nowrap;
-  width:auto;
+  white-space:normal;       /* ✨ permite partir texto si fuera necesario */
 }
 .telegram-banner .telegram-button:hover{background:#8d64f5;}
 
@@ -81,26 +90,16 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
 /* ------------ Mobile ≤ 600 px ------------ */
 @media(max-width:600px){
   .telegram-banner{flex-direction:column;align-items:stretch;}
-  .telegram-banner .telegram-left{flex-direction:row;align-items:center;gap:1rem;margin-bottom:.5rem;}
-  .telegram-banner .telegram-button{width:100%;text-align:center;}
+  .telegram-banner .telegram-left{gap:1rem;margin-bottom:.6rem;}
 }
 
 /* ------------ Mobile ≤ 480 px ------------ */
 @media(max-width:480px){
-
-  /* Compactar botones Prev / Next */
   .pagination{gap:.5rem;}
   .pagination .nav-btn{font-size:0;padding:.35rem .6rem;min-width:auto;}
-  .pagination #prevBtn::before{content:"Previous Day";font-size:.85rem;color:inherit;}
+  .pagination #prevBtn::before{content:"Prev. Day";font-size:.85rem;color:inherit;}
   .pagination #nextBtn::before{content:"Next Day";font-size:.85rem;color:inherit;}
 
-  /* Banner totalmente fluido */
-  .telegram-banner{
-    flex-direction:column;
-    align-items:stretch;
-    padding:1.1rem .9rem;
-    margin-inline:0;
-  }
+  .telegram-banner{padding:1.1rem .9rem;margin-inline:0;}
   .telegram-banner .telegram-left{gap:.8rem;margin-bottom:.8rem;}
-  .telegram-banner .telegram-button{width:100%;text-align:center;}
 }
