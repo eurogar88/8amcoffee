@@ -1,7 +1,7 @@
 /* public/global.css */
 
 /* ---------- Base ---------- */
-body{font-family:system-ui,sans-serif;background-color:#fbfbff;color:#222;margin:0;padding:0 1rem;max-width:700px;margin-inline:auto;background-image:url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='1' cy='1' r='1' fill='%23e0dffc'/%3E%3C/svg%3E");
+body{font-family:system-ui,sans-serif;background:linear-gradient(135deg, #f3f0ff 0%, #f7f5ff 100%);color:#222;margin:0;padding:0 1rem;max-width:700px;margin-inline:auto;
 }
 header{text-align:center;margin:2rem 0 1rem;}
 .logo-link{display:inline-block;width:220px;margin:0 auto 0;text-align:center;}
