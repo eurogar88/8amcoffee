@@ -13,6 +13,19 @@ const currentYear = new Date().getFullYear();
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/global.css" />
     {showCanonical && <link rel="canonical" href="https://8am.coffee/" />}
+
+    <!-- Mixpanel SDK -->
+    <script src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script>
+    <script is:inline>
+      // Reemplaza por tu token si cambia
+      mixpanel.init("28f8ba184732934626a5fc5de430e0ed", { debug: false });
+
+      // Page View en cada carga
+      mixpanel.track("Page View", {
+        path: window.location.pathname,
+        referrer: document.referrer || "direct"
+      });
+    </script>
   </head>
   <body>
     <header>
@@ -25,9 +38,9 @@ const currentYear = new Date().getFullYear();
 
     {date && (
       <div class="pagination">
-        <a href={prev ? `/${prev}` : '#'} class={`nav-btn ${!prev ? 'disabled' : ''}`}>← Previous Day</a>
+        <a id="prevBtn" href={prev ? `/${prev}` : '#'} class={`nav-btn ${!prev ? 'disabled' : ''}`}>← Previous Day</a>
         <span class="date-label">{isToday ? 'Today' : date}</span>
-        <a href={next ? nextLink : '#'} class={`nav-btn ${!next ? 'disabled' : ''}`}>Next Day →</a>
+        <a id="nextBtn" href={next ? nextLink : '#'} class={`nav-btn ${!next ? 'disabled' : ''}`}>Next Day →</a>
       </div>
     )}
 
@@ -57,6 +70,8 @@ const currentYear = new Date().getFullYear();
                   target="_blank"
                   rel="noopener noreferrer"
                   class="nav-btn read-more"
+                  data-slug={post.slug}
+                  data-title={post.title}
                 >
                   Read more →
                 </a>
@@ -66,7 +81,6 @@ const currentYear = new Date().getFullYear();
         })
       )}
     </main>
-
 
     <footer>
       <div class="footer-links">
@@ -78,5 +92,29 @@ const currentYear = new Date().getFullYear();
     </footer>
 
     <script src="/inject-banner.js" defer></script>
+
+    <!-- Mixpanel event listeners -->
+    <script is:inline>
+      document.addEventListener('DOMContentLoaded', () => {
+        // Prev / Next navigation
+        document.getElementById('prevBtn')?.addEventListener('click', () =>
+          mixpanel.track('Nav Click', { direction: 'previous', path: location.pathname })
+        );
+        document.getElementById('nextBtn')?.addEventListener('click', () =>
+          mixpanel.track('Nav Click', { direction: 'next', path: location.pathname })
+        );
+
+        // Delegate Read-more clicks
+        document.body.addEventListener('click', (e) => {
+          const link = e.target.closest('a.read-more');
+          if (!link) return;
+          mixpanel.track('Read More', {
+            slug: link.dataset.slug,
+            title: link.dataset.title,
+            path: location.pathname
+          });
+        });
+      });
+    </script>
   </body>
 </html>
