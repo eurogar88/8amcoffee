@@ -13,15 +13,6 @@ const currentYear = new Date().getFullYear();
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/global.css" />
     {showCanonical && <link rel="canonical" href="https://8am.coffee/" />}
-
-    <!-- Mixpanel config -->
-    <script>
-      window.mixpanelConfig = {
-        token: "28f8ba184732934626a5fc5de430e0ed",
-        debug: false
-      };
-    </script>
-    <script async src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script>
   </head>
   <body>
     <header>
@@ -89,43 +80,44 @@ const currentYear = new Date().getFullYear();
 
     <script src="/inject-banner.js" defer></script>
 
-    <!-- Mixpanel event listeners -->
-    <script is:inline>
-      const waitForMixpanel = () => {
-        if (typeof mixpanel !== 'undefined') {
-          mixpanel.init(window.mixpanelConfig.token, {
-            debug: window.mixpanelConfig.debug
-          });
+    <!-- Mixpanel SDK (deferred) -->
+    <script defer src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script>
 
-          mixpanel.track("Page View", {
-            path: window.location.pathname,
-            referrer: document.referrer || "direct"
-          });
-
-          // Event listeners
-          document.getElementById('prevBtn')?.addEventListener('click', () =>
-            mixpanel.track('Nav Click', { direction: 'previous', path: location.pathname })
-          );
-          document.getElementById('nextBtn')?.addEventListener('click', () =>
-            mixpanel.track('Nav Click', { direction: 'next', path: location.pathname })
-          );
-
-          document.body.addEventListener('click', (e) => {
-            const link = e.target.closest('a.read-more');
-            if (!link) return;
-            mixpanel.track('Read More', {
-              slug: link.dataset.slug,
-              title: link.dataset.title,
-              path: location.pathname
-            });
-          });
-
-        } else {
-          setTimeout(waitForMixpanel, 50);
+    <!-- Inicialización y eventos Mixpanel -->
+    <script is:inline defer>
+      document.addEventListener('DOMContentLoaded', () => {
+        if (typeof mixpanel === 'undefined') {
+          console.error('Mixpanel SDK not loaded');
+          return;
         }
-      };
 
-      waitForMixpanel();
+        mixpanel.init('28f8ba184732934626a5fc5de430e0ed', { debug: false });
+
+        // Page view
+        mixpanel.track('Page View', {
+          path: window.location.pathname,
+          referrer: document.referrer || 'direct',
+        });
+
+        // Prev / Next navigation
+        document.getElementById('prevBtn')?.addEventListener('click', () =>
+          mixpanel.track('Nav Click', { direction: 'previous', path: location.pathname })
+        );
+        document.getElementById('nextBtn')?.addEventListener('click', () =>
+          mixpanel.track('Nav Click', { direction: 'next', path: location.pathname })
+        );
+
+        // Read-more clicks
+        document.body.addEventListener('click', (e) => {
+          const link = e.target.closest('a.read-more');
+          if (!link) return;
+          mixpanel.track('Read More', {
+            slug: link.dataset.slug,
+            title: link.dataset.title,
+            path: location.pathname,
+          });
+        });
+      });
     </script>
   </body>
 </html>
