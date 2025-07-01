@@ -1,5 +1,5 @@
 ---
-import posts from '../data/posts.json';
+import posts from '../data/posts-public.json';
 
 const { date: currentDate } = Astro.props;
 const filteredPosts = posts.filter(p => p.date === currentDate);
@@ -15,7 +15,7 @@ const remaining = filteredPosts.slice(2);
     <article class="post">
       <small>{post.date}</small>
       <h2>{post.title}</h2>
-      <p>{post.text}</p>
+      <p>{post.summary}</p>
       {post.url && (
         <a href={post.url} class="read-more" target="_blank" rel="noopener noreferrer">
           Read more →
@@ -28,7 +28,7 @@ const remaining = filteredPosts.slice(2);
     <article class="post">
       <small>{post.date}</small>
       <h2>{post.title}</h2>
-      <p>{post.text}</p>
+      <p>{post.summary}</p>
       {post.url && (
         <a href={post.url} class="read-more" target="_blank" rel="noopener noreferrer">
           Read more →
