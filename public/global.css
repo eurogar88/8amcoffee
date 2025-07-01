@@ -133,8 +133,9 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
 /* ---------- Breakpoints ---------- */
 @media(min-width:768px){
   .post{margin-inline:-2rem;}
-  .telegram-banner,
-  .partner-banner{margin-inline:-2rem;}  /* mismo ancho que las cards */
+  /* mismo ancho que las cards (compensamos el borde de 2 px) 🆕 */
+  .telegram-banner{margin-inline:calc(-2rem - 2px);}
+  .partner-banner {margin-inline:-2rem;}   /* sin cambio */
 }
 
 /* ------------ Mobile ≤ 600 px ------------ */
