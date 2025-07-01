@@ -2,14 +2,12 @@
 import posts from '../data/posts-public.json';
 
 const { date: currentDate } = Astro.props;
-const filteredPosts = posts.filter(p => new Date(p.date).toISOString().split("T")[0] === currentDate);
+const filteredPosts = posts.filter(p => p.date === currentDate);
 const showBanner = filteredPosts.length >= 3;
 
 // Partimos los posts
 const firstTwo = filteredPosts.slice(0, 2);
 const remaining = filteredPosts.slice(2);
-
-const formatDate = (dateStr) => new Date(dateStr).toISOString().split("T")[0];
 ---
 
 <section class="post-list">
@@ -26,8 +24,16 @@ const formatDate = (dateStr) => new Date(dateStr).toISOString().split("T")[0];
     </article>
   ))}
 
-  {showBanner && (
-    <div class="telegram-banner">
-      <img src="/telegram-icon.png" alt="Telegram" />
-      <div>
-        <strong>📢
+  {remaining.map(post => (
+    <article class="post">
+      <small>{formatDate(post.date)}</small>
+      <h2>{post.title}</h2>
+      <p>{post.summary}</p>
+      {post.url_origin && (
+        <a href={post.url_origin} class="read-more" target="_blank" rel="noopener noreferrer">
+          Read more →
+        </a>
+      )}
+    </article>
+  ))}
+</section>
