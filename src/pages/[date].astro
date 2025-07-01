@@ -3,17 +3,17 @@ import Layout from '../components/Layout.astro';
 import posts from '../data/posts-public.json';
 
 export function getStaticPaths() {
-  const dates = [...new Set(posts.map(p => p.date))];
+  const dates = [...new Set(posts.map(p => new Date(p.date).toISOString().split('T')[0]))];
   return dates.map(date => ({ params: { date } }));
 }
 
 const { date } = Astro.params;
-const availableDates = [...new Set(posts.map(p => p.date))].sort((a, b) => b.localeCompare(a));
+const availableDates = [...new Set(posts.map(p => new Date(p.date).toISOString().split('T')[0]))].sort((a, b) => b.localeCompare(a));
 const latestDate = availableDates[0];
 const index = availableDates.indexOf(date);
 const prev = index < availableDates.length - 1 ? availableDates[index + 1] : null;
 const next = index > 0 ? availableDates[index - 1] : null;
-const filteredPosts = posts.filter(p => p.date === date);
+const filteredPosts = posts.filter(p => new Date(p.date).toISOString().split('T')[0] === date);
 ---
 
 <Layout 

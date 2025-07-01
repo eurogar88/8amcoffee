@@ -5,7 +5,7 @@ import posts from '../data/posts-public.json';
 const availableDates = [...new Set(posts.map(p => new Date(p.date).toISOString().split('T')[0]))].sort((a, b) => b.localeCompare(a));
 const latestDate    = availableDates[0];
 const filteredPosts = posts.filter(p => new Date(p.date).toISOString().split('T')[0] === latestDate);
-
+const prev = availableDates[1] || null;
 ---
 
 <Layout 

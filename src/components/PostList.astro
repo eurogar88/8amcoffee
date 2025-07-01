@@ -2,7 +2,7 @@
 import posts from '../data/posts-public.json';
 
 const { date: currentDate } = Astro.props;
-const filteredPosts = posts.filter(p => p.date === currentDate);
+const filteredPosts = posts.filter(p => new Date(p.date).toISOString().split('T')[0] === currentDate);
 const showBanner = filteredPosts.length >= 3;
 
 // Partimos los posts
@@ -13,7 +13,7 @@ const remaining = filteredPosts.slice(2);
 <section class="post-list">
   {firstTwo.map(post => (
     <article class="post">
-      <small>{post.date}</small>
+      <small>{new Date(post.date).toISOString().split('T')[0]}</small>
       <h2>{post.title}</h2>
       <p>{post.summary}</p>
       {post.url_origin && (
@@ -26,7 +26,7 @@ const remaining = filteredPosts.slice(2);
 
   {remaining.map(post => (
     <article class="post">
-      <small>{post.date}</small>
+      <small>{new Date(post.date).toISOString().split('T')[0]}</small>
       <h2>{post.title}</h2>
       <p>{post.summary}</p>
       {post.url_origin && (
