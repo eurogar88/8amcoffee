@@ -1,6 +1,66 @@
 [
   {
     "row_number": 2,
+    "title": "🌏 Huawei Goes Open Source with Pangu AI Models",
+    "summary": "In a major move in AI news, Huawei has decided to open source key models from its Pangu series. This shift aims to foster transparency and development in the artificial intelligence community, signaling a new era for open collaboration in tech.",
+    "date": "2025-06-24T23:10:31.585Z",
+    "slug": "mckq88r1-huawei-goes-open-source-with-pangu-ai-models",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/huawei-is-open-sourcing-ai-models-from-its-pangu-series/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 3,
+    "title": "📘 Baidu Unleashes ERNIE 4.5 in the Open Source AI Race",
+    "summary": "Baidu joins the AI news spotlight by releasing the open source ERNIE 4.5 model family. This advanced AI suite empowers developers with robust capabilities, aiming to rival existing giants in the artificial intelligence landscape.",
+    "date": "2025-06-24T23:10:31.585Z",
+    "slug": "mckq88r1-baidu-unleashes-ernie-4-5-in-the-open-source-ai-race",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/baidu-releases-open-source-model-family-ernie-4-5/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 4,
+    "title": "🍏 Apple Considers ChatGPT and Claude for Siri Upgrade",
+    "summary": "In surprising artificial intelligence news, Apple is exploring third-party AI models from OpenAI and Anthropic to enhance Siri, potentially shifting away from its in-house AI. Could this redefine Siri’s future in the chatbot era?",
+    "date": "2025-06-24T23:10:31.585Z",
+    "slug": "mckq88r1-apple-considers-chatgpt-and-claude-for-siri-upgrade",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/apple-weighs-abandoning-its-own-ai-for-siri-as-it-tests-models-from-openai-and-anthropic/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 5,
+    "title": "🚀 Elon Musk’s xAI Raises $10B to Compete in AI Wars",
+    "summary": "Billionaire Elon Musk's company xAI has secured a massive $10 billion in funding to advance its artificial intelligence ambitions. This major AI news places xAI among the top contenders in a rapidly evolving tech battlefield.",
+    "date": "2025-06-24T23:10:31.585Z",
+    "slug": "mckq88r1-elon-musk-s-xai-raises-10b-to-compete-in-ai-wars",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/elon-musks-ai-company-xai-raises-10-billion-us-dollars-in-capital/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 6,
+    "title": "🧠 Meta Launches Superintelligence Labs with Top AI Talent",
+    "summary": "Meta makes a bold move in AI news by founding Superintelligence Labs, recruiting experts from OpenAI and Google. This strategic step signals Meta's intensified focus on next-level artificial intelligence innovation.",
+    "date": "2025-06-24T23:10:31.585Z",
+    "slug": "mckq88r1-meta-launches-superintelligence-labs-with-top-ai-talent",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/meta-founds-superintelligence-labs-with-top-acquisitions-from-openai-and-google/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 7,
     "title": "🧠 Huawei Open Sources Its Powerful Pangu AI Models",
     "summary": "In a significant move in AI news, Huawei is releasing key models from its Pangu series as open source. This step aims to boost transparency and innovation in artificial intelligence development across multiple industries and regions.",
     "date": "2025-06-25T23:10:31.585Z",
@@ -12,7 +72,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 3,
+    "row_number": 8,
     "title": "🚀 Baidu Launches ERNIE 4.5 AI Models as Open Source",
     "summary": "Chinese tech giant Baidu has made headlines in artificial intelligence news by releasing ERNIE 4.5, its latest family of open source models. The release marks another step forward in the global AI arms race and democratization of AI tools.",
     "date": "2025-06-25T23:10:31.585Z",
@@ -24,7 +84,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 4,
+    "row_number": 9,
     "title": "🔄 Apple May Ditch Its AI for Siri, Tests OpenAI and Anthropic",
     "summary": "In breaking AI news, Apple is reportedly considering discarding its in-house AI tech for Siri. The tech giant is testing models from OpenAI and Anthropic, signaling potential changes in its approach to artificial intelligence integration.",
     "date": "2025-06-25T23:10:31.585Z",
@@ -36,7 +96,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 5,
+    "row_number": 10,
     "title": "💰 xAI Raises $10B to Challenge AI Giants",
     "summary": "Elon Musk's xAI has secured $10 billion in funding, pushing it to the forefront of artificial intelligence news. With this capital injection, xAI aims to challenge OpenAI and others in the race for the next generation of AI technology.",
     "date": "2025-06-25T23:10:31.585Z",
@@ -48,7 +108,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 6,
+    "row_number": 11,
     "title": "🧬 Meta Launches Superintelligence Labs with AI Talent from OpenAI & Google",
     "summary": "Meta enters the next phase of artificial intelligence development by founding Superintelligence Labs, and recruiting top AI minds from OpenAI and Google. A bold step in shaping the future of AI and superintelligence.",
     "date": "2025-06-25T23:10:31.585Z",
@@ -60,7 +120,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 7,
+    "row_number": 12,
     "title": "🍏 Apple May Ditch Its Own AI for Siri in Favor of OpenAI & Anthropic Tech",
     "summary": "In a surprising twist in artificial intelligence news, Apple is testing models from OpenAI and Anthropic, possibly abandoning its in-house AI for Siri. This strategic move could reshape how Apple integrates intelligence into its devices and services.",
     "date": "2025-06-26T23:10:31.585Z",
@@ -72,7 +132,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 8,
+    "row_number": 13,
     "title": "🚀 xAI Raises $10B: Elon Musk Flexes in the AI Race",
     "summary": "Elon Musk's xAI has secured $10 billion in funding, making a bold statement in the AI landscape. The massive investment signals aggressive expansion plans and elevates xAI’s potential to compete with giants in the artificial intelligence news spotlight.",
     "date": "2025-06-26T23:10:31.585Z",
@@ -84,7 +144,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 9,
+    "row_number": 14,
     "title": "🧠 Meta Launches Superintelligence Labs, Taps AI Talent from OpenAI & Google",
     "summary": "Meta is doubling down on its AI ambitions by founding Superintelligence Labs and recruiting top minds from OpenAI and Google. This step could be a game-changer in artificial intelligence development, placing Meta at the heart of the latest ai news.",
     "date": "2025-06-26T23:10:31.585Z",
@@ -96,7 +156,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 10,
+    "row_number": 15,
     "title": "🎓 Google Brings Gemini AI Tools to Schools Worldwide",
     "summary": "Google’s Gemini for Education and Gemini in Classroom are set to transform learning environments. These AI tools aim to personalize teaching and streamline the classroom experience, marking a key innovation in ai news for the education sector.",
     "date": "2025-06-26T23:10:31.585Z",
@@ -108,7 +168,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 11,
+    "row_number": 16,
     "title": "💡 Microsoft’s MAI-DxO Boosts AI Diagnostics & Cuts Healthcare Costs by 70%",
     "summary": "Microsoft’s new AI model, MAI-DxO, improves diagnostic accuracy and reduces medical costs by nearly 70%. This breakthrough adds to exciting artificial intelligence news, showing the rapid progress of AI in advancing global healthcare solutions.",
     "date": "2025-06-26T23:10:31.585Z",
@@ -120,7 +180,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 12,
+    "row_number": 17,
     "title": "🏫 AI Goes to School: Google Launches Gemini for Education",
     "summary": "In a major update to artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom—powerful AI tools designed to reshape how students and teachers interact in the digital age. These tools aim to personalize learning and improve classroom productivity.",
     "date": "2025-06-27T23:10:31.585Z",
@@ -132,7 +192,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 13,
+    "row_number": 18,
     "title": "💡 Smarter Health: Microsoft’s MAI-DxO Cuts Costs, Improves Diagnosis",
     "summary": "Microsoft’s new AI tool, MAI-DxO, is making waves in healthcare ai news. It boosts diagnostic accuracy using artificial intelligence and dramatically lowers costs by nearly 70%, marking a major leap in accessible and efficient patient care.",
     "date": "2025-06-27T23:10:31.585Z",
@@ -144,7 +204,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 14,
+    "row_number": 19,
     "title": "⚡ AI vs. The Grid: Can Infrastructure Keep Up?",
     "summary": "As artificial intelligence news heats up, a new concern emerges: can our power infrastructure handle AI’s soaring energy demands? This piece explores the strain AI puts on electrical grids and the urgent need for scalable, energy-efficient solutions.",
     "date": "2025-06-27T23:10:31.585Z",
@@ -156,7 +216,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 15,
+    "row_number": 20,
     "title": "🧬 DeepMind’s AlphaGenome Breaks New Ground in Genomics",
     "summary": "In a big step for AI news and biotech, DeepMind unveils AlphaGenome—a unified AI model capable of high-resolution genome interpretation. The tool promises faster, more accurate analysis with potential breakthroughs in genetic research and personalized medicine.",
     "date": "2025-06-27T23:10:31.585Z",
@@ -168,7 +228,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 16,
+    "row_number": 21,
     "title": "📊 TigerEye Reimagines Business Insights with AI Power",
     "summary": "TigerEye is turning heads in artificial intelligence news by reinventing business intelligence. With AI at its core, the startup provides real-time, actionable insights that help companies make smarter, faster decisions in dynamic markets.",
     "date": "2025-06-27T23:10:31.585Z",
@@ -180,7 +240,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 17,
+    "row_number": 22,
     "title": "🍏 Apple Considering Ditching Its Own AI for Siri in Favor of OpenAI, Anthropic",
     "summary": "Big shift in AI news: Apple may abandon its in-house AI project for Siri, currently testing large language models from OpenAI and Anthropic instead. This could redefine how Siri integrates artificial intelligence in the future.",
     "date": "2025-06-28T23:10:31.585Z",
@@ -192,7 +252,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 18,
+    "row_number": 23,
     "title": "🚀 Elon Musk's xAI Secures $10 Billion to Transform AI Landscape",
     "summary": "In a major artificial intelligence news update, Elon Musk’s startup xAI has raised $10 billion in capital. With this funding, xAI is set to challenge major AI players and potentially reshape the industry’s future.",
     "date": "2025-06-28T23:10:31.585Z",
@@ -204,7 +264,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 19,
+    "row_number": 24,
     "title": "🧠 Meta Launches Superintelligence Labs, Attracting Talent from OpenAI & Google",
     "summary": "Meta enters the AI superintelligence race by founding Superintelligence Labs, hiring top experts from OpenAI and Google. This latest development adds a new heavyweight to the artificial intelligence news cycle.",
     "date": "2025-06-28T23:10:31.585Z",
@@ -216,7 +276,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 20,
+    "row_number": 25,
     "title": "🏫 Google Rolls Out Gemini AI Tools in Schools to Transform Learning",
     "summary": "In exciting AI news for education, Google is deploying its Gemini for Education and Gemini in Classroom tools to empower schools with smart learning solutions, making AI more accessible to students and teachers worldwide.",
     "date": "2025-06-28T23:10:31.585Z",
@@ -228,7 +288,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 21,
+    "row_number": 26,
     "title": "💡 Microsoft's MAI-DxO Slashes Diagnostic Costs, Enhances AI Accuracy",
     "summary": "Microsoft's new AI system, MAI-DxO, achieves a 70% cost reduction in diagnostics while boosting accuracy. A major breakthrough in medical artificial intelligence news with huge implications for healthcare efficiency and precision.",
     "date": "2025-06-28T23:10:31.585Z",
@@ -240,7 +300,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 22,
+    "row_number": 27,
     "title": "🎓 Google brings Gemini AI tools to classrooms",
     "summary": "In latest artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom, two AI-driven tools aimed at transforming how students and teachers interact with learning. These tools promise to personalize education while supporting collaboration in an academic setting.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -252,7 +312,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 23,
+    "row_number": 28,
     "title": "🧪 Microsoft’s MAI-DxO revolutionizes AI diagnostics",
     "summary": "Microsoft unveils MAI-DxO, an AI tool that not only enhances diagnostic accuracy but slashes healthcare costs by nearly 70%. This breakthrough marks a significant step forward in artificial intelligence news, especially in the medical sector where efficiency and precision are vital.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -264,7 +324,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 24,
+    "row_number": 29,
     "title": "⚖️ U.S. Senate pushes pause on local AI laws",
     "summary": "In a major move in AI news, the U.S. Senate plans to block states from enacting their own AI regulations for five years—if they accept federal broadband funding. This controversial bill raises concerns over federal vs. state control in shaping artificial intelligence policy.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -276,7 +336,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 25,
+    "row_number": 30,
     "title": "🛍️ Claude AI runs a store—and things got weird",
     "summary": "Anthropic’s Claude AI recently managed an online shop for a full month, in a bold experiment that blurred the lines between automation and entrepreneurship. The outcome? Equal parts bizarre and insightful—raising new questions in artificial intelligence news about AI behavior in real-world roles.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -288,7 +348,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 26,
+    "row_number": 31,
     "title": "🚫 Trump's AI bill may defund regulating states",
     "summary": "A revised bill backed by Trump proposes cutting off AI research funding to U.S. states that independently regulate artificial intelligence. This move adds fuel to nationwide debates and makes headlines in AI news around federal oversight and innovation control.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -300,7 +360,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 27,
+    "row_number": 32,
     "title": "🏫 Google Empowers Schools with New AI Tools for the Classroom",
     "summary": "In recent artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom, AI-powered tools designed to transform how students and educators interact with learning materials. These innovations aim to personalize instruction and foster engagement across educational settings.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -312,7 +372,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 28,
+    "row_number": 33,
     "title": "🧬 Microsoft’s MAI-DxO Revolutionizes AI Medical Diagnostics",
     "summary": "Microsoft’s new AI system, MAI-DxO, is making waves in AI news by enhancing diagnostic accuracy and slashing healthcare costs by up to 70%. This powerful tool is a game changer in medical AI technology, offering faster, more reliable results and increasing accessibility across healthcare systems.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -324,7 +384,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 29,
+    "row_number": 34,
     "title": "🏛️ US Senate Proposes Five-Year Block on State AI Laws Linked to Broadband Funding",
     "summary": "In a significant policy development, the US Senate aims to suspend state-level AI regulations for five years if states accept broadband funding. This artificial intelligence news highlights the growing tension between federal and local AI governance during the expansion of digital infrastructure.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -336,7 +396,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 30,
+    "row_number": 35,
     "title": "⚡ Power Strain: Can the Energy Grid Keep Up with AI Demand?",
     "summary": "The growing use of AI systems raises concerns over energy consumption. As artificial intelligence becomes increasingly pervasive, experts question whether current power infrastructures can sustain its appetite. This latest ai news sheds light on the energy dilemma of rapid AI expansion.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -348,7 +408,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 31,
+    "row_number": 36,
     "title": "🚀 Anthropic Enhances Claude with Advanced App-Building Features",
     "summary": "In standout artificial intelligence news, Anthropic upgrades Claude with new Artifacts capabilities, enabling users to build complex apps directly within the platform. This represents a big leap forward for AI-assisted development and user-friendly programming tools.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -360,11 +420,35 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 32,
-    "title": "🌏 Huawei Goes Open Source with Pangu AI Models",
-    "summary": "In a major move in AI news, Huawei has decided to open source key models from its Pangu series. This shift aims to foster transparency and development in the artificial intelligence community, signaling a new era for open collaboration in tech.",
-    "date": "2025-07-01T16:12:56.269Z",
-    "slug": "mckq88r1-huawei-goes-open-source-with-pangu-ai-models",
+    "row_number": 37,
+    "title": "🛡️ Cloudflare Shields the Web: Blocking AI Crawlers Without Consent",
+    "summary": "In a move grabbing headlines in AI news, Cloudflare is stepping up to protect websites by blocking AI crawlers that access data without permission. The company aims to preserve user rights and the integrity of the web as artificial intelligence advances.",
+    "date": "2025-07-01T21:59:34.815Z",
+    "slug": "mcl2m10e-cloudflare-shields-the-web-blocking-ai-crawlers-without-consent",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/cloudflare-aims-to-save-the-world-wide-web-by-blocking-ai-crawlers-without-explicit-consent/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 38,
+    "title": "💸 OpenAI’s Elite AI Services Come with a $10M Price Tag",
+    "summary": "OpenAI is now offering exclusive enterprise AI consulting services starting at $10 million per client. This bold expansion underscores how artificial intelligence is reshaping the business world at premium levels.",
+    "date": "2025-07-01T21:59:34.815Z",
+    "slug": "mcl2m10e-openai-s-elite-ai-services-come-with-a-10m-price-tag",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/openai-is-charging-at-least-10-million-per-client-for-its-enterprise-ai-consulting-services/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 39,
+    "title": "🌐 Huawei Opens Up with Pangu AI Model Release",
+    "summary": "In a major development in AI news, Huawei has open-sourced models from its powerful Pangu AI series. This move could accelerate AI adoption and model development across global researchers and developers.",
+    "date": "2025-07-01T21:59:34.815Z",
+    "slug": "mcl2m10e-huawei-opens-up-with-pangu-ai-model-release",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/huawei-is-open-sourcing-ai-models-from-its-pangu-series/",
     "post_body": "",
@@ -372,11 +456,11 @@
     "col_9": ""
   },
   {
-    "row_number": 33,
-    "title": "📘 Baidu Unleashes ERNIE 4.5 in the Open Source AI Race",
-    "summary": "Baidu joins the AI news spotlight by releasing the open source ERNIE 4.5 model family. This advanced AI suite empowers developers with robust capabilities, aiming to rival existing giants in the artificial intelligence landscape.",
-    "date": "2025-07-01T16:12:56.269Z",
-    "slug": "mckq88r1-baidu-unleashes-ernie-4-5-in-the-open-source-ai-race",
+    "row_number": 40,
+    "title": "🚀 Baidu’s ERNIE 4.5: Open-Source AI Power Goes Public",
+    "summary": "Baidu makes waves in artificial intelligence news by releasing its ERNIE 4.5 model family as open-source. The advanced models promise improved language performance and broader accessibility for AI innovations.",
+    "date": "2025-07-01T21:59:34.815Z",
+    "slug": "mcl2m10e-baidu-s-ernie-4-5-open-source-ai-power-goes-public",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/baidu-releases-open-source-model-family-ernie-4-5/",
     "post_body": "",
@@ -384,37 +468,13 @@
     "col_9": ""
   },
   {
-    "row_number": 34,
-    "title": "🍏 Apple Considers ChatGPT and Claude for Siri Upgrade",
-    "summary": "In surprising artificial intelligence news, Apple is exploring third-party AI models from OpenAI and Anthropic to enhance Siri, potentially shifting away from its in-house AI. Could this redefine Siri’s future in the chatbot era?",
-    "date": "2025-07-01T16:12:56.270Z",
-    "slug": "mckq88r1-apple-considers-chatgpt-and-claude-for-siri-upgrade",
+    "row_number": 41,
+    "title": "🍏 Apple May Abandon Own AI as Siri Gets Tested with OpenAI, Anthropic",
+    "summary": "According to recent AI news, Apple is exploring alternatives to its in-house AI, testing models from OpenAI and Anthropic for potential Siri integration. A strategic shift could reshape the future of voice assistants.",
+    "date": "2025-07-01T21:59:34.815Z",
+    "slug": "mcl2m10e-apple-may-abandon-own-ai-as-siri-gets-tested-with-openai-anthropic",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/apple-weighs-abandoning-its-own-ai-for-siri-as-it-tests-models-from-openai-and-anthropic/",
-    "post_body": "",
-    "post_image": "",
-    "col_9": ""
-  },
-  {
-    "row_number": 35,
-    "title": "🚀 Elon Musk’s xAI Raises $10B to Compete in AI Wars",
-    "summary": "Billionaire Elon Musk's company xAI has secured a massive $10 billion in funding to advance its artificial intelligence ambitions. This major AI news places xAI among the top contenders in a rapidly evolving tech battlefield.",
-    "date": "2025-07-01T16:12:56.270Z",
-    "slug": "mckq88r1-elon-musk-s-xai-raises-10b-to-compete-in-ai-wars",
-    "topic": "AI",
-    "url_origin": "https://the-decoder.com/elon-musks-ai-company-xai-raises-10-billion-us-dollars-in-capital/",
-    "post_body": "",
-    "post_image": "",
-    "col_9": ""
-  },
-  {
-    "row_number": 36,
-    "title": "🧠 Meta Launches Superintelligence Labs with Top AI Talent",
-    "summary": "Meta makes a bold move in AI news by founding Superintelligence Labs, recruiting experts from OpenAI and Google. This strategic step signals Meta's intensified focus on next-level artificial intelligence innovation.",
-    "date": "2025-07-01T16:12:56.270Z",
-    "slug": "mckq88r1-meta-launches-superintelligence-labs-with-top-ai-talent",
-    "topic": "AI",
-    "url_origin": "https://the-decoder.com/meta-founds-superintelligence-labs-with-top-acquisitions-from-openai-and-google/",
     "post_body": "",
     "post_image": "",
     "col_9": ""
