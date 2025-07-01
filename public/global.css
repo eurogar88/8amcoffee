@@ -23,11 +23,14 @@ header {
 }
 
 .logo {
-  height: 200px;
+  /* height: 200px;
   display: block;
   margin-inline: auto;
   filter: brightness(0);
-  pointer-events: none;
+  pointer-events: none; */
+  max-width: 220px;   /* igual que .logo-link */
+  width: 100%;
+  height: auto;       /* mantiene proporción */
 }
 
 .title-link {
