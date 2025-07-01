@@ -16,8 +16,8 @@ const remaining = filteredPosts.slice(2);
       <small>{post.date}</small>
       <h2>{post.title}</h2>
       <p>{post.summary}</p>
-      {post.url && (
-        <a href={post.url} class="read-more" target="_blank" rel="noopener noreferrer">
+      {post.url_origin && (
+        <a href={post.url_origin} class="read-more" target="_blank" rel="noopener noreferrer">
           Read more →
         </a>
       )}
@@ -29,8 +29,8 @@ const remaining = filteredPosts.slice(2);
       <small>{post.date}</small>
       <h2>{post.title}</h2>
       <p>{post.summary}</p>
-      {post.url && (
-        <a href={post.url} class="read-more" target="_blank" rel="noopener noreferrer">
+      {post.url_origin && (
+        <a href={post.url_origin} class="read-more" target="_blank" rel="noopener noreferrer">
           Read more →
         </a>
       )}
