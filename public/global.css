@@ -1,7 +1,7 @@
 /* public/global.css */
 
 /* ---------- Base ---------- */
-body{font-family:system-ui,sans-serif;background:#f3f0ff;color:#222;margin:0;padding:0 1rem;max-width:700px;margin-inline:auto;}
+body{font-family:system-ui,sans-serif;background:#fcfcff;color:#222;margin:0;padding:0 1rem;max-width:700px;margin-inline:auto;}
 header{text-align:center;margin:2rem 0 1rem;}
 .logo-link{display:inline-block;width:220px;margin:0 auto 0;text-align:center;}
 .logo{filter:brightness(0);max-width:220px;width:100%;height:auto;}
