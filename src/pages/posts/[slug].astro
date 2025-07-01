@@ -16,6 +16,6 @@ const { post } = Astro.props;
 <Layout date={null} posts={[{
   title: post.title,
   date: post.date,
-  content: post.content,
-  url: post.url
+  content: post.summary,
+  url: post.url_origin
 }]} showCanonical={true} />
