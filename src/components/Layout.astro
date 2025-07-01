@@ -13,46 +13,119 @@ const currentYear = new Date().getFullYear();
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/global.css" />
     {showCanonical && <link rel="canonical" href="https://8am.coffee/" />}
+
+    <!-- Mixpanel config -->
+    <script>
+      window.mixpanelConfig = {
+        token: "28f8ba184732934626a5fc5de430e0ed",
+        debug: false
+      };
+    </script>
+    <script async src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script>
   </head>
   <body>
-    <!-- …contenido sin cambios… -->
+    <header>
+      <a href="/" class="logo-link">
+        <img src="/assets/logo-8am-coffee-440.png" alt="8am Coffee" class="logo" />
+      </a>
+      <a href="/" class="title-link"><h1>8am ☕ Coffee</h1></a>
+      <p class="subtitle">Daily curated AI news for you</p>
+    </header>
+
+    {date && (
+      <div class="pagination">
+        <a id="prevBtn" href={prev ? `/${prev}` : '#'} class={`nav-btn ${!prev ? 'disabled' : ''}`}>← Previous Day</a>
+        <span class="date-label">{isToday ? 'Today' : date}</span>
+        <a id="nextBtn" href={next ? nextLink : '#'} class={`nav-btn ${!next ? 'disabled' : ''}`}>Next Day →</a>
+      </div>
+    )}
+
+    <main class="post-list">
+      {posts.length === 0 ? (
+        <p style="text-align:center;">No posts for this day.</p>
+      ) : (
+        posts.map(post => {
+          const shortDate = post.date
+            ? new Date(post.date).toISOString().split('T')[0]
+            : '';
+
+          return (
+            <div class="post">
+              <h2>
+                {post.icon && <span innerHTML={post.icon}></span>}
+                {post.title}
+              </h2>
+
+              {shortDate && <small>{shortDate}</small>}
+
+              <div set:html={post.summary}></div>
+
+              {post.url_origin && (
+                <a
+                  href={post.url_origin}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="nav-btn read-more"
+                  data-slug={post.slug}
+                  data-title={post.title}
+                >
+                  Read more →
+                </a>
+              )}
+            </div>
+          );
+        })
+      )}
+    </main>
+
+    <footer>
+      <div class="footer-links">
+        <a href="/legal">Legal Notice</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/cookies">Cookies Policy</a>
+      </div>
+      <div>© {currentYear} 8am Coffee</div>
+    </footer>
 
     <script src="/inject-banner.js" defer></script>
 
-    <!-- Mixpanel: carga + init + page-view cuando el SDK termina -->
-    <script
-      src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"
-      onload="
-        mixpanel.init('28f8ba184732934626a5fc5de430e0ed', { debug: false });
-        mixpanel.track('Page View', {
-          path: window.location.pathname,
-          referrer: document.referrer || 'direct'
-        });
-      "
-    ></script>
-
-    <!-- Eventos de navegación y “Read more” (se ejecutan tras DOMContentLoaded) -->
+    <!-- Mixpanel event listeners -->
     <script is:inline>
-      document.addEventListener('DOMContentLoaded', () => {
-        // Prev / Next buttons
-        document.getElementById('prevBtn')?.addEventListener('click', () =>
-          mixpanel.track('Nav Click', { direction: 'previous', path: location.pathname })
-        );
-        document.getElementById('nextBtn')?.addEventListener('click', () =>
-          mixpanel.track('Nav Click', { direction: 'next', path: location.pathname })
-        );
-
-        // Delegate Read-more clicks
-        document.body.addEventListener('click', (e) => {
-          const link = e.target.closest('a.read-more');
-          if (!link) return;
-          mixpanel.track('Read More', {
-            slug: link.dataset.slug,
-            title: link.dataset.title,
-            path: location.pathname
+      const waitForMixpanel = () => {
+        if (typeof mixpanel !== 'undefined') {
+          mixpanel.init(window.mixpanelConfig.token, {
+            debug: window.mixpanelConfig.debug
           });
-        });
-      });
+
+          mixpanel.track("Page View", {
+            path: window.location.pathname,
+            referrer: document.referrer || "direct"
+          });
+
+          // Event listeners
+          document.getElementById('prevBtn')?.addEventListener('click', () =>
+            mixpanel.track('Nav Click', { direction: 'previous', path: location.pathname })
+          );
+          document.getElementById('nextBtn')?.addEventListener('click', () =>
+            mixpanel.track('Nav Click', { direction: 'next', path: location.pathname })
+          );
+
+          document.body.addEventListener('click', (e) => {
+            const link = e.target.closest('a.read-more');
+            if (!link) return;
+            mixpanel.track('Read More', {
+              slug: link.dataset.slug,
+              title: link.dataset.title,
+              path: location.pathname
+            });
+          });
+
+        } else {
+          setTimeout(waitForMixpanel, 50);
+        }
+      };
+
+      waitForMixpanel();
     </script>
   </body>
 </html>
