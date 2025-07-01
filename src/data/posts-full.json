@@ -1,6 +1,126 @@
 [
   {
     "row_number": 2,
+    "title": "🏫 AI Goes to School: Google Launches Gemini for Education",
+    "summary": "In a major update to artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom—powerful AI tools designed to reshape how students and teachers interact in the digital age. These tools aim to personalize learning and improve classroom productivity.",
+    "date": "2025-06-27T23:10:31.585Z",
+    "slug": "mckf6uj3-ai-goes-to-school-google-launches-gemini-for-education",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-brings-gemini-for-education-and-gemini-in-classroom-ai-tools-to-schools/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 3,
+    "title": "💡 Smarter Health: Microsoft’s MAI-DxO Cuts Costs, Improves Diagnosis",
+    "summary": "Microsoft’s new AI tool, MAI-DxO, is making waves in healthcare ai news. It boosts diagnostic accuracy using artificial intelligence and dramatically lowers costs by nearly 70%, marking a major leap in accessible and efficient patient care.",
+    "date": "2025-06-27T23:10:31.585Z",
+    "slug": "mckf6uj3-smarter-health-microsoft-s-mai-dxo-cuts-costs-improves-diagnosis",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/microsofts-mai-dxo-boosts-ai-diagnostic-accuracy-and-cuts-costs-by-nearly-70-percent/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 4,
+    "title": "⚡ AI vs. The Grid: Can Infrastructure Keep Up?",
+    "summary": "As artificial intelligence news heats up, a new concern emerges: can our power infrastructure handle AI’s soaring energy demands? This piece explores the strain AI puts on electrical grids and the urgent need for scalable, energy-efficient solutions.",
+    "date": "2025-06-27T23:10:31.585Z",
+    "slug": "mckf6uj3-ai-vs-the-grid-can-infrastructure-keep-up",
+    "topic": "AI",
+    "url_origin": "https://www.artificialintelligence-news.com/news/power-play-can-the-grid-cope-with-ais-growing-appetite/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 5,
+    "title": "🧬 DeepMind’s AlphaGenome Breaks New Ground in Genomics",
+    "summary": "In a big step for AI news and biotech, DeepMind unveils AlphaGenome—a unified AI model capable of high-resolution genome interpretation. The tool promises faster, more accurate analysis with potential breakthroughs in genetic research and personalized medicine.",
+    "date": "2025-06-27T23:10:31.585Z",
+    "slug": "mckf6uj3-deepmind-s-alphagenome-breaks-new-ground-in-genomics",
+    "topic": "AI",
+    "url_origin": "https://www.infoq.com/news/2025/07/deepmind-alpha-genome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 6,
+    "title": "📊 TigerEye Reimagines Business Insights with AI Power",
+    "summary": "TigerEye is turning heads in artificial intelligence news by reinventing business intelligence. With AI at its core, the startup provides real-time, actionable insights that help companies make smarter, faster decisions in dynamic markets.",
+    "date": "2025-06-27T23:10:31.585Z",
+    "slug": "mckf6uj3-tigereye-reimagines-business-insights-with-ai-power",
+    "topic": "AI",
+    "url_origin": "https://www.aiacceleratorinstitute.com/how-tigereye-is-redefining-ai-powered-business-intelligence/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 7,
+    "title": "🍏 Apple Considering Ditching Its Own AI for Siri in Favor of OpenAI, Anthropic",
+    "summary": "Big shift in AI news: Apple may abandon its in-house AI project for Siri, currently testing large language models from OpenAI and Anthropic instead. This could redefine how Siri integrates artificial intelligence in the future.",
+    "date": "2025-06-28T23:10:31.585Z",
+    "slug": "mckgu5s3-apple-considering-ditching-its-own-ai-for-siri-in-favor-of-openai-anthropic",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/apple-weighs-abandoning-its-own-ai-for-siri-as-it-tests-models-from-openai-and-anthropic/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 8,
+    "title": "🚀 Elon Musk's xAI Secures $10 Billion to Transform AI Landscape",
+    "summary": "In a major artificial intelligence news update, Elon Musk’s startup xAI has raised $10 billion in capital. With this funding, xAI is set to challenge major AI players and potentially reshape the industry’s future.",
+    "date": "2025-06-28T23:10:31.585Z",
+    "slug": "mckgu5s3-elon-musk-s-xai-secures-10-billion-to-transform-ai-landscape",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/elon-musks-ai-company-xai-raises-10-billion-us-dollars-in-capital/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 9,
+    "title": "🧠 Meta Launches Superintelligence Labs, Attracting Talent from OpenAI & Google",
+    "summary": "Meta enters the AI superintelligence race by founding Superintelligence Labs, hiring top experts from OpenAI and Google. This latest development adds a new heavyweight to the artificial intelligence news cycle.",
+    "date": "2025-06-28T23:10:31.585Z",
+    "slug": "mckgu5s3-meta-launches-superintelligence-labs-attracting-talent-from-openai-google",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/meta-founds-superintelligence-labs-with-top-acquisitions-from-openai-and-google/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 10,
+    "title": "🏫 Google Rolls Out Gemini AI Tools in Schools to Transform Learning",
+    "summary": "In exciting AI news for education, Google is deploying its Gemini for Education and Gemini in Classroom tools to empower schools with smart learning solutions, making AI more accessible to students and teachers worldwide.",
+    "date": "2025-06-28T23:10:31.585Z",
+    "slug": "mckgu5s3-google-rolls-out-gemini-ai-tools-in-schools-to-transform-learning",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-brings-gemini-for-education-and-gemini-in-classroom-ai-tools-to-schools/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 11,
+    "title": "💡 Microsoft's MAI-DxO Slashes Diagnostic Costs, Enhances AI Accuracy",
+    "summary": "Microsoft's new AI system, MAI-DxO, achieves a 70% cost reduction in diagnostics while boosting accuracy. A major breakthrough in medical artificial intelligence news with huge implications for healthcare efficiency and precision.",
+    "date": "2025-06-28T23:10:31.585Z",
+    "slug": "mckgu5s3-microsoft-s-mai-dxo-slashes-diagnostic-costs-enhances-ai-accuracy",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/microsofts-mai-dxo-boosts-ai-diagnostic-accuracy-and-cuts-costs-by-nearly-70-percent/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 12,
     "title": "🎓 Google brings Gemini AI tools to classrooms",
     "summary": "In latest artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom, two AI-driven tools aimed at transforming how students and teachers interact with learning. These tools promise to personalize education while supporting collaboration in an academic setting.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -12,7 +132,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 3,
+    "row_number": 13,
     "title": "🧪 Microsoft’s MAI-DxO revolutionizes AI diagnostics",
     "summary": "Microsoft unveils MAI-DxO, an AI tool that not only enhances diagnostic accuracy but slashes healthcare costs by nearly 70%. This breakthrough marks a significant step forward in artificial intelligence news, especially in the medical sector where efficiency and precision are vital.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -24,7 +144,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 4,
+    "row_number": 14,
     "title": "⚖️ U.S. Senate pushes pause on local AI laws",
     "summary": "In a major move in AI news, the U.S. Senate plans to block states from enacting their own AI regulations for five years—if they accept federal broadband funding. This controversial bill raises concerns over federal vs. state control in shaping artificial intelligence policy.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -36,7 +156,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 5,
+    "row_number": 15,
     "title": "🛍️ Claude AI runs a store—and things got weird",
     "summary": "Anthropic’s Claude AI recently managed an online shop for a full month, in a bold experiment that blurred the lines between automation and entrepreneurship. The outcome? Equal parts bizarre and insightful—raising new questions in artificial intelligence news about AI behavior in real-world roles.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -48,7 +168,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 6,
+    "row_number": 16,
     "title": "🚫 Trump's AI bill may defund regulating states",
     "summary": "A revised bill backed by Trump proposes cutting off AI research funding to U.S. states that independently regulate artificial intelligence. This move adds fuel to nationwide debates and makes headlines in AI news around federal oversight and innovation control.",
     "date": "2025-06-29T23:10:31.585Z",
@@ -60,7 +180,7 @@
     "col_9": "borrar (fake)"
   },
   {
-    "row_number": 7,
+    "row_number": 17,
     "title": "🏫 Google Empowers Schools with New AI Tools for the Classroom",
     "summary": "In recent artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom, AI-powered tools designed to transform how students and educators interact with learning materials. These innovations aim to personalize instruction and foster engagement across educational settings.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -72,7 +192,7 @@
     "col_9": ""
   },
   {
-    "row_number": 8,
+    "row_number": 18,
     "title": "🧬 Microsoft’s MAI-DxO Revolutionizes AI Medical Diagnostics",
     "summary": "Microsoft’s new AI system, MAI-DxO, is making waves in AI news by enhancing diagnostic accuracy and slashing healthcare costs by up to 70%. This powerful tool is a game changer in medical AI technology, offering faster, more reliable results and increasing accessibility across healthcare systems.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -84,7 +204,7 @@
     "col_9": ""
   },
   {
-    "row_number": 9,
+    "row_number": 19,
     "title": "🏛️ US Senate Proposes Five-Year Block on State AI Laws Linked to Broadband Funding",
     "summary": "In a significant policy development, the US Senate aims to suspend state-level AI regulations for five years if states accept broadband funding. This artificial intelligence news highlights the growing tension between federal and local AI governance during the expansion of digital infrastructure.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -96,7 +216,7 @@
     "col_9": ""
   },
   {
-    "row_number": 10,
+    "row_number": 20,
     "title": "⚡ Power Strain: Can the Energy Grid Keep Up with AI Demand?",
     "summary": "The growing use of AI systems raises concerns over energy consumption. As artificial intelligence becomes increasingly pervasive, experts question whether current power infrastructures can sustain its appetite. This latest ai news sheds light on the energy dilemma of rapid AI expansion.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -108,7 +228,7 @@
     "col_9": ""
   },
   {
-    "row_number": 11,
+    "row_number": 21,
     "title": "🚀 Anthropic Enhances Claude with Advanced App-Building Features",
     "summary": "In standout artificial intelligence news, Anthropic upgrades Claude with new Artifacts capabilities, enabling users to build complex apps directly within the platform. This represents a big leap forward for AI-assisted development and user-friendly programming tools.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -120,71 +240,11 @@
     "col_9": ""
   },
   {
-    "row_number": 12,
-    "title": "🏫 AI Goes to School: Google Launches Gemini for Education",
-    "summary": "In a major update to artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom—powerful AI tools designed to reshape how students and teachers interact in the digital age. These tools aim to personalize learning and improve classroom productivity.",
-    "date": "2025-07-01T11:03:55.407Z",
-    "slug": "mckf6uj3-ai-goes-to-school-google-launches-gemini-for-education",
-    "topic": "AI",
-    "url_origin": "https://the-decoder.com/google-brings-gemini-for-education-and-gemini-in-classroom-ai-tools-to-schools/",
-    "post_body": "",
-    "post_image": "",
-    "col_9": ""
-  },
-  {
-    "row_number": 13,
-    "title": "💡 Smarter Health: Microsoft’s MAI-DxO Cuts Costs, Improves Diagnosis",
-    "summary": "Microsoft’s new AI tool, MAI-DxO, is making waves in healthcare ai news. It boosts diagnostic accuracy using artificial intelligence and dramatically lowers costs by nearly 70%, marking a major leap in accessible and efficient patient care.",
-    "date": "2025-07-01T11:03:55.407Z",
-    "slug": "mckf6uj3-smarter-health-microsoft-s-mai-dxo-cuts-costs-improves-diagnosis",
-    "topic": "AI",
-    "url_origin": "https://the-decoder.com/microsofts-mai-dxo-boosts-ai-diagnostic-accuracy-and-cuts-costs-by-nearly-70-percent/",
-    "post_body": "",
-    "post_image": "",
-    "col_9": ""
-  },
-  {
-    "row_number": 14,
-    "title": "⚡ AI vs. The Grid: Can Infrastructure Keep Up?",
-    "summary": "As artificial intelligence news heats up, a new concern emerges: can our power infrastructure handle AI’s soaring energy demands? This piece explores the strain AI puts on electrical grids and the urgent need for scalable, energy-efficient solutions.",
-    "date": "2025-07-01T11:03:55.407Z",
-    "slug": "mckf6uj3-ai-vs-the-grid-can-infrastructure-keep-up",
-    "topic": "AI",
-    "url_origin": "https://www.artificialintelligence-news.com/news/power-play-can-the-grid-cope-with-ais-growing-appetite/",
-    "post_body": "",
-    "post_image": "",
-    "col_9": ""
-  },
-  {
-    "row_number": 15,
-    "title": "🧬 DeepMind’s AlphaGenome Breaks New Ground in Genomics",
-    "summary": "In a big step for AI news and biotech, DeepMind unveils AlphaGenome—a unified AI model capable of high-resolution genome interpretation. The tool promises faster, more accurate analysis with potential breakthroughs in genetic research and personalized medicine.",
-    "date": "2025-07-01T11:03:55.407Z",
-    "slug": "mckf6uj3-deepmind-s-alphagenome-breaks-new-ground-in-genomics",
-    "topic": "AI",
-    "url_origin": "https://www.infoq.com/news/2025/07/deepmind-alpha-genome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-    "post_body": "",
-    "post_image": "",
-    "col_9": ""
-  },
-  {
-    "row_number": 16,
-    "title": "📊 TigerEye Reimagines Business Insights with AI Power",
-    "summary": "TigerEye is turning heads in artificial intelligence news by reinventing business intelligence. With AI at its core, the startup provides real-time, actionable insights that help companies make smarter, faster decisions in dynamic markets.",
-    "date": "2025-07-01T11:03:55.407Z",
-    "slug": "mckf6uj3-tigereye-reimagines-business-insights-with-ai-power",
-    "topic": "AI",
-    "url_origin": "https://www.aiacceleratorinstitute.com/how-tigereye-is-redefining-ai-powered-business-intelligence/",
-    "post_body": "",
-    "post_image": "",
-    "col_9": ""
-  },
-  {
-    "row_number": 17,
-    "title": "🍏 Apple Considering Ditching Its Own AI for Siri in Favor of OpenAI, Anthropic",
-    "summary": "Big shift in AI news: Apple may abandon its in-house AI project for Siri, currently testing large language models from OpenAI and Anthropic instead. This could redefine how Siri integrates artificial intelligence in the future.",
-    "date": "2025-07-01T11:50:02.691Z",
-    "slug": "mckgu5s3-apple-considering-ditching-its-own-ai-for-siri-in-favor-of-openai-anthropic",
+    "row_number": 22,
+    "title": "🍏 Apple May Ditch Its Own AI for Siri in Favor of OpenAI & Anthropic Tech",
+    "summary": "In a surprising twist in artificial intelligence news, Apple is testing models from OpenAI and Anthropic, possibly abandoning its in-house AI for Siri. This strategic move could reshape how Apple integrates intelligence into its devices and services.",
+    "date": "2025-07-01T11:59:53.058Z",
+    "slug": "mckh6tb6-apple-may-ditch-its-own-ai-for-siri-in-favor-of-openai-anthropic-tech",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/apple-weighs-abandoning-its-own-ai-for-siri-as-it-tests-models-from-openai-and-anthropic/",
     "post_body": "",
@@ -192,11 +252,11 @@
     "col_9": ""
   },
   {
-    "row_number": 18,
-    "title": "🚀 Elon Musk's xAI Secures $10 Billion to Transform AI Landscape",
-    "summary": "In a major artificial intelligence news update, Elon Musk’s startup xAI has raised $10 billion in capital. With this funding, xAI is set to challenge major AI players and potentially reshape the industry’s future.",
-    "date": "2025-07-01T11:50:02.691Z",
-    "slug": "mckgu5s3-elon-musk-s-xai-secures-10-billion-to-transform-ai-landscape",
+    "row_number": 23,
+    "title": "🚀 xAI Raises $10B: Elon Musk Flexes in the AI Race",
+    "summary": "Elon Musk's xAI has secured $10 billion in funding, making a bold statement in the AI landscape. The massive investment signals aggressive expansion plans and elevates xAI’s potential to compete with giants in the artificial intelligence news spotlight.",
+    "date": "2025-07-01T11:59:53.058Z",
+    "slug": "mckh6tb6-xai-raises-10b-elon-musk-flexes-in-the-ai-race",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/elon-musks-ai-company-xai-raises-10-billion-us-dollars-in-capital/",
     "post_body": "",
@@ -204,11 +264,11 @@
     "col_9": ""
   },
   {
-    "row_number": 19,
-    "title": "🧠 Meta Launches Superintelligence Labs, Attracting Talent from OpenAI & Google",
-    "summary": "Meta enters the AI superintelligence race by founding Superintelligence Labs, hiring top experts from OpenAI and Google. This latest development adds a new heavyweight to the artificial intelligence news cycle.",
-    "date": "2025-07-01T11:50:02.691Z",
-    "slug": "mckgu5s3-meta-launches-superintelligence-labs-attracting-talent-from-openai-google",
+    "row_number": 24,
+    "title": "🧠 Meta Launches Superintelligence Labs, Taps AI Talent from OpenAI & Google",
+    "summary": "Meta is doubling down on its AI ambitions by founding Superintelligence Labs and recruiting top minds from OpenAI and Google. This step could be a game-changer in artificial intelligence development, placing Meta at the heart of the latest ai news.",
+    "date": "2025-07-01T11:59:53.058Z",
+    "slug": "mckh6tb6-meta-launches-superintelligence-labs-taps-ai-talent-from-openai-google",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/meta-founds-superintelligence-labs-with-top-acquisitions-from-openai-and-google/",
     "post_body": "",
@@ -216,11 +276,11 @@
     "col_9": ""
   },
   {
-    "row_number": 20,
-    "title": "🏫 Google Rolls Out Gemini AI Tools in Schools to Transform Learning",
-    "summary": "In exciting AI news for education, Google is deploying its Gemini for Education and Gemini in Classroom tools to empower schools with smart learning solutions, making AI more accessible to students and teachers worldwide.",
-    "date": "2025-07-01T11:50:02.691Z",
-    "slug": "mckgu5s3-google-rolls-out-gemini-ai-tools-in-schools-to-transform-learning",
+    "row_number": 25,
+    "title": "🎓 Google Brings Gemini AI Tools to Schools Worldwide",
+    "summary": "Google’s Gemini for Education and Gemini in Classroom are set to transform learning environments. These AI tools aim to personalize teaching and streamline the classroom experience, marking a key innovation in ai news for the education sector.",
+    "date": "2025-07-01T11:59:53.058Z",
+    "slug": "mckh6tb6-google-brings-gemini-ai-tools-to-schools-worldwide",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/google-brings-gemini-for-education-and-gemini-in-classroom-ai-tools-to-schools/",
     "post_body": "",
@@ -228,11 +288,11 @@
     "col_9": ""
   },
   {
-    "row_number": 21,
-    "title": "💡 Microsoft's MAI-DxO Slashes Diagnostic Costs, Enhances AI Accuracy",
-    "summary": "Microsoft's new AI system, MAI-DxO, achieves a 70% cost reduction in diagnostics while boosting accuracy. A major breakthrough in medical artificial intelligence news with huge implications for healthcare efficiency and precision.",
-    "date": "2025-07-01T11:50:02.691Z",
-    "slug": "mckgu5s3-microsoft-s-mai-dxo-slashes-diagnostic-costs-enhances-ai-accuracy",
+    "row_number": 26,
+    "title": "💡 Microsoft’s MAI-DxO Boosts AI Diagnostics & Cuts Healthcare Costs by 70%",
+    "summary": "Microsoft’s new AI model, MAI-DxO, improves diagnostic accuracy and reduces medical costs by nearly 70%. This breakthrough adds to exciting artificial intelligence news, showing the rapid progress of AI in advancing global healthcare solutions.",
+    "date": "2025-07-01T11:59:53.058Z",
+    "slug": "mckh6tb6-microsoft-s-mai-dxo-boosts-ai-diagnostics-cuts-healthcare-costs-by-70",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/microsofts-mai-dxo-boosts-ai-diagnostic-accuracy-and-cuts-costs-by-nearly-70-percent/",
     "post_body": "",
