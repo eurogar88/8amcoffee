@@ -40,7 +40,7 @@ const currentYear = new Date().getFullYear();
             <h2>{post.icon && <span innerHTML={post.icon}></span>} {post.title}</h2>
             <small>{post.date}</small>
             <div set:html={post.summary}></div>
-            {post.url && (
+            {post.url_origin && (
               <a href={post.url_origin} target="_blank" rel="noopener noreferrer" class="nav-btn read-more">
                 Read more →
               </a>
