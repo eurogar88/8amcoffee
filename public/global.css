@@ -26,8 +26,8 @@ header {
   /* height: 200px;
   display: block;
   margin-inline: auto;
-  filter: brightness(0);
   pointer-events: none; */
+  filter: brightness(0);
   max-width: 220px;   /* igual que .logo-link */
   width: 100%;
   height: auto;       /* mantiene proporción */
