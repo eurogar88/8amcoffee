@@ -1,6 +1,6 @@
 ---
 import Layout from '../../components/Layout.astro';
-import posts from '../../data/posts-public.json';
+import posts from '../../data/posts-full.json';
 
 export async function getStaticPaths() {
   console.log("POSTS PARA RUTAS:", posts);
@@ -16,6 +16,6 @@ const { post } = Astro.props;
 <Layout date={null} posts={[{
   title: post.title,
   date: post.date,
-  content: post.summary,
+  summary: post.summary,
   url: post.url_origin
 }]} showCanonical={true} />
