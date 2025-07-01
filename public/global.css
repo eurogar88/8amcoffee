@@ -103,3 +103,62 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   .telegram-banner{padding:1.1rem .9rem;margin-inline:0;}
   .telegram-banner .telegram-left{gap:.8rem;margin-bottom:.8rem;}
 }
+
+/* ---------- Partner Banner (Integra 8am Coffee) ---------- */
+.partner-banner{
+  background:#fff;
+  border:2px solid #ffb400;
+  border-radius:12px;
+  padding:1rem 1.2rem;
+  box-shadow:0 2px 6px #0001;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  margin-top:1rem;
+  flex-wrap:wrap;
+  transition:transform .2s ease,box-shadow .2s ease;
+  overflow:hidden;
+  box-sizing:border-box;
+}
+.partner-banner:hover{transform:scale(1.02);box-shadow:0 4px 12px #0002;}
+
+.partner-left{
+  display:flex;
+  align-items:center;
+  gap:1rem;
+  flex:1;
+  min-width:0;
+  flex-wrap:wrap;
+}
+.partner-left img{
+  width:48px;height:48px;flex-shrink:0;border-radius:12px;
+}
+.partner-left strong{font-size:1.1rem;color:#111;display:block;margin-bottom:.25rem;word-break:break-word;}
+.partner-left p     {font-size:.95rem;color:#555;margin:0;word-break:break-word;}
+
+.partner-button{
+  display:block;
+  width:100%;
+  box-sizing:border-box;
+  background:#ffb400;
+  color:#fff;
+  padding:0.5rem 1rem;
+  border-radius:8px;
+  text-decoration:none;
+  font-weight:bold;
+  font-size:.9rem;
+  text-align:center;
+  transition:background .2s ease-in-out;
+}
+.partner-button:hover{background:#e49e00;}
+
+/* ===== Ajustes responsive heredados ===== */
+@media (max-width:600px){
+  .partner-banner{flex-direction:column;align-items:stretch;}
+  .partner-left   {gap:1rem;margin-bottom:.6rem;}
+}
+@media (max-width:480px){
+  .partner-banner{padding:1.1rem .9rem;margin-inline:0;}
+  .partner-left  {gap:.8rem;margin-bottom:.8rem;}
+}
