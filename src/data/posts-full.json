@@ -1,6 +1,66 @@
 [
   {
     "row_number": 2,
+    "title": "🎓 Google brings Gemini AI tools to classrooms",
+    "summary": "In latest artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom, two AI-driven tools aimed at transforming how students and teachers interact with learning. These tools promise to personalize education while supporting collaboration in an academic setting.",
+    "date": "2025-06-29T23:10:31.585Z",
+    "slug": "mcjssnmi-google-brings-gemini-ai-tools-to-classrooms",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-brings-gemini-for-education-and-gemini-in-classroom-ai-tools-to-schools/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": "borrar (fake)"
+  },
+  {
+    "row_number": 3,
+    "title": "🧪 Microsoft’s MAI-DxO revolutionizes AI diagnostics",
+    "summary": "Microsoft unveils MAI-DxO, an AI tool that not only enhances diagnostic accuracy but slashes healthcare costs by nearly 70%. This breakthrough marks a significant step forward in artificial intelligence news, especially in the medical sector where efficiency and precision are vital.",
+    "date": "2025-06-29T23:10:31.585Z",
+    "slug": "mcjssnmi-microsoft-s-mai-dxo-revolutionizes-ai-diagnostics",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/microsofts-mai-dxo-boosts-ai-diagnostic-accuracy-and-cuts-costs-by-nearly-70-percent/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": "borrar (fake)"
+  },
+  {
+    "row_number": 4,
+    "title": "⚖️ U.S. Senate pushes pause on local AI laws",
+    "summary": "In a major move in AI news, the U.S. Senate plans to block states from enacting their own AI regulations for five years—if they accept federal broadband funding. This controversial bill raises concerns over federal vs. state control in shaping artificial intelligence policy.",
+    "date": "2025-06-29T23:10:31.585Z",
+    "slug": "mcjssnmi-u-s-senate-pushes-pause-on-local-ai-laws",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/us-senate-moves-to-block-state-ai-laws-for-five-years-if-states-take-broadband-funds/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": "borrar (fake)"
+  },
+  {
+    "row_number": 5,
+    "title": "🛍️ Claude AI runs a store—and things got weird",
+    "summary": "Anthropic’s Claude AI recently managed an online shop for a full month, in a bold experiment that blurred the lines between automation and entrepreneurship. The outcome? Equal parts bizarre and insightful—raising new questions in artificial intelligence news about AI behavior in real-world roles.",
+    "date": "2025-06-29T23:10:31.585Z",
+    "slug": "mcjssnmi-claude-ai-runs-a-store-and-things-got-weird",
+    "topic": "AI",
+    "url_origin": "https://www.zdnet.com/article/what-happened-when-anthropics-claude-ai-ran-a-small-shop-for-a-month-spoiler-it-got-weird/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": "borrar (fake)"
+  },
+  {
+    "row_number": 6,
+    "title": "🚫 Trump's AI bill may defund regulating states",
+    "summary": "A revised bill backed by Trump proposes cutting off AI research funding to U.S. states that independently regulate artificial intelligence. This move adds fuel to nationwide debates and makes headlines in AI news around federal oversight and innovation control.",
+    "date": "2025-06-29T23:10:31.585Z",
+    "slug": "mcjssnmi-trump-s-ai-bill-may-defund-regulating-states",
+    "topic": "AI",
+    "url_origin": "https://www.zdnet.com/article/trumps-big-revised-bill-will-slash-ai-funding-for-states-that-regulate-ai/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": "borrar (fake)"
+  },
+  {
+    "row_number": 7,
     "title": "🏫 Google Empowers Schools with New AI Tools for the Classroom",
     "summary": "In recent artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom, AI-powered tools designed to transform how students and educators interact with learning materials. These innovations aim to personalize instruction and foster engagement across educational settings.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -8,10 +68,11 @@
     "topic": "AI",
     "url_origin": "https://the-decoder.com/google-brings-gemini-for-education-and-gemini-in-classroom-ai-tools-to-schools/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 3,
+    "row_number": 8,
     "title": "🧬 Microsoft’s MAI-DxO Revolutionizes AI Medical Diagnostics",
     "summary": "Microsoft’s new AI system, MAI-DxO, is making waves in AI news by enhancing diagnostic accuracy and slashing healthcare costs by up to 70%. This powerful tool is a game changer in medical AI technology, offering faster, more reliable results and increasing accessibility across healthcare systems.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -19,10 +80,11 @@
     "topic": "AI",
     "url_origin": "https://the-decoder.com/microsofts-mai-dxo-boosts-ai-diagnostic-accuracy-and-cuts-costs-by-nearly-70-percent/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 4,
+    "row_number": 9,
     "title": "🏛️ US Senate Proposes Five-Year Block on State AI Laws Linked to Broadband Funding",
     "summary": "In a significant policy development, the US Senate aims to suspend state-level AI regulations for five years if states accept broadband funding. This artificial intelligence news highlights the growing tension between federal and local AI governance during the expansion of digital infrastructure.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -30,10 +92,11 @@
     "topic": "AI",
     "url_origin": "https://the-decoder.com/us-senate-moves-to-block-state-ai-laws-for-five-years-if-states-take-broadband-funds/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 5,
+    "row_number": 10,
     "title": "⚡ Power Strain: Can the Energy Grid Keep Up with AI Demand?",
     "summary": "The growing use of AI systems raises concerns over energy consumption. As artificial intelligence becomes increasingly pervasive, experts question whether current power infrastructures can sustain its appetite. This latest ai news sheds light on the energy dilemma of rapid AI expansion.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -41,10 +104,11 @@
     "topic": "AI",
     "url_origin": "https://www.artificialintelligence-news.com/news/power-play-can-the-grid-cope-with-ais-growing-appetite/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 6,
+    "row_number": 11,
     "title": "🚀 Anthropic Enhances Claude with Advanced App-Building Features",
     "summary": "In standout artificial intelligence news, Anthropic upgrades Claude with new Artifacts capabilities, enabling users to build complex apps directly within the platform. This represents a big leap forward for AI-assisted development and user-friendly programming tools.",
     "date": "2025-06-30T23:10:31.585Z",
@@ -52,61 +116,67 @@
     "topic": "AI",
     "url_origin": "https://www.infoq.com/news/2025/06/anthropic-artifacts-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 7,
-    "title": "🎓 Google brings Gemini AI tools to classrooms",
-    "summary": "In latest artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom, two AI-driven tools aimed at transforming how students and teachers interact with learning. These tools promise to personalize education while supporting collaboration in an academic setting.",
-    "date": "2025-07-01T00:37:01.722Z",
-    "slug": "mcjssnmi-google-brings-gemini-ai-tools-to-classrooms",
+    "row_number": 12,
+    "title": "🏫 AI Goes to School: Google Launches Gemini for Education",
+    "summary": "In a major update to artificial intelligence news, Google introduces Gemini for Education and Gemini in Classroom—powerful AI tools designed to reshape how students and teachers interact in the digital age. These tools aim to personalize learning and improve classroom productivity.",
+    "date": "2025-07-01T11:03:55.407Z",
+    "slug": "mckf6uj3-ai-goes-to-school-google-launches-gemini-for-education",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/google-brings-gemini-for-education-and-gemini-in-classroom-ai-tools-to-schools/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 8,
-    "title": "🧪 Microsoft’s MAI-DxO revolutionizes AI diagnostics",
-    "summary": "Microsoft unveils MAI-DxO, an AI tool that not only enhances diagnostic accuracy but slashes healthcare costs by nearly 70%. This breakthrough marks a significant step forward in artificial intelligence news, especially in the medical sector where efficiency and precision are vital.",
-    "date": "2025-07-01T00:37:01.722Z",
-    "slug": "mcjssnmi-microsoft-s-mai-dxo-revolutionizes-ai-diagnostics",
+    "row_number": 13,
+    "title": "💡 Smarter Health: Microsoft’s MAI-DxO Cuts Costs, Improves Diagnosis",
+    "summary": "Microsoft’s new AI tool, MAI-DxO, is making waves in healthcare ai news. It boosts diagnostic accuracy using artificial intelligence and dramatically lowers costs by nearly 70%, marking a major leap in accessible and efficient patient care.",
+    "date": "2025-07-01T11:03:55.407Z",
+    "slug": "mckf6uj3-smarter-health-microsoft-s-mai-dxo-cuts-costs-improves-diagnosis",
     "topic": "AI",
     "url_origin": "https://the-decoder.com/microsofts-mai-dxo-boosts-ai-diagnostic-accuracy-and-cuts-costs-by-nearly-70-percent/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 9,
-    "title": "⚖️ U.S. Senate pushes pause on local AI laws",
-    "summary": "In a major move in AI news, the U.S. Senate plans to block states from enacting their own AI regulations for five years—if they accept federal broadband funding. This controversial bill raises concerns over federal vs. state control in shaping artificial intelligence policy.",
-    "date": "2025-07-01T00:37:01.722Z",
-    "slug": "mcjssnmi-u-s-senate-pushes-pause-on-local-ai-laws",
+    "row_number": 14,
+    "title": "⚡ AI vs. The Grid: Can Infrastructure Keep Up?",
+    "summary": "As artificial intelligence news heats up, a new concern emerges: can our power infrastructure handle AI’s soaring energy demands? This piece explores the strain AI puts on electrical grids and the urgent need for scalable, energy-efficient solutions.",
+    "date": "2025-07-01T11:03:55.407Z",
+    "slug": "mckf6uj3-ai-vs-the-grid-can-infrastructure-keep-up",
     "topic": "AI",
-    "url_origin": "https://the-decoder.com/us-senate-moves-to-block-state-ai-laws-for-five-years-if-states-take-broadband-funds/",
+    "url_origin": "https://www.artificialintelligence-news.com/news/power-play-can-the-grid-cope-with-ais-growing-appetite/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 10,
-    "title": "🛍️ Claude AI runs a store—and things got weird",
-    "summary": "Anthropic’s Claude AI recently managed an online shop for a full month, in a bold experiment that blurred the lines between automation and entrepreneurship. The outcome? Equal parts bizarre and insightful—raising new questions in artificial intelligence news about AI behavior in real-world roles.",
-    "date": "2025-07-01T00:37:01.722Z",
-    "slug": "mcjssnmi-claude-ai-runs-a-store-and-things-got-weird",
+    "row_number": 15,
+    "title": "🧬 DeepMind’s AlphaGenome Breaks New Ground in Genomics",
+    "summary": "In a big step for AI news and biotech, DeepMind unveils AlphaGenome—a unified AI model capable of high-resolution genome interpretation. The tool promises faster, more accurate analysis with potential breakthroughs in genetic research and personalized medicine.",
+    "date": "2025-07-01T11:03:55.407Z",
+    "slug": "mckf6uj3-deepmind-s-alphagenome-breaks-new-ground-in-genomics",
     "topic": "AI",
-    "url_origin": "https://www.zdnet.com/article/what-happened-when-anthropics-claude-ai-ran-a-small-shop-for-a-month-spoiler-it-got-weird/",
+    "url_origin": "https://www.infoq.com/news/2025/07/deepmind-alpha-genome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   },
   {
-    "row_number": 11,
-    "title": "🚫 Trump's AI bill may defund regulating states",
-    "summary": "A revised bill backed by Trump proposes cutting off AI research funding to U.S. states that independently regulate artificial intelligence. This move adds fuel to nationwide debates and makes headlines in AI news around federal oversight and innovation control.",
-    "date": "2025-07-01T00:37:01.722Z",
-    "slug": "mcjssnmi-trump-s-ai-bill-may-defund-regulating-states",
+    "row_number": 16,
+    "title": "📊 TigerEye Reimagines Business Insights with AI Power",
+    "summary": "TigerEye is turning heads in artificial intelligence news by reinventing business intelligence. With AI at its core, the startup provides real-time, actionable insights that help companies make smarter, faster decisions in dynamic markets.",
+    "date": "2025-07-01T11:03:55.407Z",
+    "slug": "mckf6uj3-tigereye-reimagines-business-insights-with-ai-power",
     "topic": "AI",
-    "url_origin": "https://www.zdnet.com/article/trumps-big-revised-bill-will-slash-ai-funding-for-states-that-regulate-ai/",
+    "url_origin": "https://www.aiacceleratorinstitute.com/how-tigereye-is-redefining-ai-powered-business-intelligence/",
     "post_body": "",
-    "post_image": ""
+    "post_image": "",
+    "col_9": ""
   }
 ]
