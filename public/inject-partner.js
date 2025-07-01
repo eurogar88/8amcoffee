@@ -10,7 +10,7 @@
       <div class="partner-left">
         <img src="/assets/megaphone.png" alt="Megaphone icon">
         <div>
-          <strong>📣 Want your own 8am Coffee on your site?</strong>
+          <strong>☝️ Want your own 8am Coffee on your site?</strong>
           <p>Choose the topic and keywords to rank for and get your AI-powered blog</p>
         </div>
       </div>
