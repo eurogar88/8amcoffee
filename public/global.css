@@ -23,10 +23,6 @@ header {
 }
 
 .logo {
-  /* height: 200px;
-  display: block;
-  margin-inline: auto;
-  pointer-events: none; */
   filter: brightness(0);
   max-width: 220px;   /* igual que .logo-link */
   width: 100%;
@@ -271,5 +267,36 @@ footer {
   .telegram-banner .telegram-button {
     width: 100%;
     text-align: center;
+  }
+}
+
+/* ------------ Mobile ≤ 480 px ------------- */
+@media (max-width: 480px) {
+
+  /* Botones Prev / Next compactos */
+  .pagination .nav-btn{
+    font-size:0.85rem;
+    padding:0.35rem 0.7rem;
+    min-width:auto;
+    color:transparent;          /* oculta texto largo */
+  }
+  .pagination .nav-btn::before{
+    content:attr(data-short);   /* muestra versión corta */
+    color:inherit;
+  }
+
+  /* Telegram banner sin desbordes */
+  .telegram-banner{
+    flex-direction:column;
+    align-items:stretch;
+    padding:1.2rem 1rem;
+  }
+  .telegram-banner .telegram-left{
+    gap:0.8rem;
+    margin-bottom:0.8rem;
+  }
+  .telegram-banner .telegram-button{
+    width:100%;
+    text-align:center;
   }
 }
