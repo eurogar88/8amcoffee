@@ -47,7 +47,7 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   justify-content:space-between;
   gap:1rem;
   margin-top:1rem;
-  flex-wrap:nowrap;          /* 🆕 3-column layout en desktop           */
+  flex-wrap:nowrap;
   transition:transform .2s ease,box-shadow .2s ease;
   box-sizing:border-box;
   width:100%;
@@ -59,7 +59,7 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   display:flex;
   align-items:center;
   gap:1rem;
-  flex:1;                     /* ocupa la columna central               */
+  flex:1;
   min-width:0;
 }
 .telegram-banner img{width:48px;height:48px;flex-shrink:0;border-radius:12px;}
@@ -69,7 +69,6 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
 
 .telegram-banner .telegram-button{
   display:inline-block;
-  /* 🆕  ancho auto en desktop, 100 % en mobile (más abajo) */
   width:auto;
   background:#a07cff;
   color:#fff;
@@ -80,10 +79,11 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   font-size:.9rem;
   transition:background .2s ease-in-out;
   white-space:nowrap;
+  box-sizing:border-box;              /* 🆕 incluye padding en el ancho */
 }
 .telegram-banner .telegram-button:hover{background:#8d64f5;}
 
-/* ---------- Partner Banner (Integra 8am Coffee) ---------- */
+/* ---------- Partner Banner ---------- */
 .partner-banner{
   background:#fff;
   border:2px solid #ffb400;
@@ -95,7 +95,7 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   justify-content:space-between;
   gap:1rem;
   margin-top:1rem;
-  flex-wrap:nowrap;          /* 🆕 igual que Telegram */
+  flex-wrap:nowrap;
   transition:transform .2s ease,box-shadow .2s ease;
   overflow:hidden;
   box-sizing:border-box;
@@ -115,7 +115,7 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
 
 .partner-button{
   display:inline-block;
-  width:auto;                /* 🆕 auto en desktop */
+  width:auto;
   background:#ffb400;
   color:#fff;
   padding:0.5rem 1rem;
@@ -126,27 +126,23 @@ footer{margin-top:3rem;padding:2rem 1rem;text-align:center;font-size:.85rem;colo
   text-align:center;
   transition:background .2s ease-in-out;
   white-space:nowrap;
+  box-sizing:border-box;              /* 🆕 igual que Telegram */
 }
 .partner-button:hover{background:#e49e00;}
 
 /* ---------- Breakpoints ---------- */
 @media(min-width:768px){
   .post{margin-inline:-2rem;}
-  /* 🆕 banners mismo ancho que las cards */
   .telegram-banner,
-  .partner-banner{margin-inline:-2rem;}
+  .partner-banner{margin-inline:-2rem;}  /* mismo ancho que las cards */
 }
 
 /* ------------ Mobile ≤ 600 px ------------ */
 @media(max-width:600px){
   .telegram-banner,
-  .partner-banner{
-    flex-direction:column;
-    align-items:stretch;
-  }
+  .partner-banner{flex-direction:column;align-items:stretch;}
   .telegram-banner .telegram-left,
   .partner-left{gap:1rem;margin-bottom:.6rem;}
-  /* botón a todo ancho en mobile */
   .telegram-banner .telegram-button,
   .partner-button{width:100%;}
 }
