@@ -1,0 +1,3 @@
+# Redirecciones permanentes al nuevo subdominio
+https://8amcoffee.news/*      https://ai.8amcoffee.news/:splat   301!
+https://www.8amcoffee.news/*  https://ai.8amcoffee.news/:splat   301!
