@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import path from 'path';
 
 export default defineConfig({
-  site: 'https://example.com', // Cambia esto cuando tengas dominio
+  site: 'https://8amcoffee.news',
   integrations: [sitemap()],
   vite: {
     resolve: {

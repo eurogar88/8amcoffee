@@ -12,7 +12,7 @@ const currentYear = new Date().getFullYear();
     <title>8am Coffee</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/global.css" />
-    {showCanonical && <link rel="canonical" href="https://8amcoffee.news/" />}
+    {showCanonical && <link rel="canonical" href={`https://8amcoffee.news${Astro.url.pathname}`} />}
 
     <!-- Mixpanel snippet (oríg.) -->
     <script>
