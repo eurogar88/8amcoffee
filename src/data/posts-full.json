@@ -538,5 +538,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 47,
+    "title": "🔬 SciArena Revolutionizes LLM Research Comparison",
+    "summary": "A game-changer in AI news: SciArena provides scientists with a platform to evaluate large language models (LLMs) using real research questions. It aims to bridge the gap between academic scrutiny and AI system performance in practical contexts.",
+    "date": "2025-07-03T08:01:13.121Z",
+    "slug": "mcn3jlb4-sciarena-revolutionizes-llm-research-comparison",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/sciarena-lets-scientists-compare-llms-on-real-research-questions/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 48,
+    "title": "🧠 X to Launch AI-Generated Community Notes",
+    "summary": "In latest artificial intelligence news, X (formerly Twitter) is set to integrate AI-generated community notes. This move aims to improve content clarity and fight misinformation through automated, context-aware summaries.",
+    "date": "2025-07-03T08:01:13.121Z",
+    "slug": "mcn3jlb4-x-to-launch-ai-generated-community-notes",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/x-to-introduce-ai-generated-community-notes/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 49,
+    "title": "🌍 AI Could Cut Global Carbon Emissions, Study Says",
+    "summary": "Promising artificial intelligence news: A new study reveals that AI technologies could help reduce global carbon emissions significantly. From optimizing grids to managing supply chains, AI’s potential in climate impact grows stronger.",
+    "date": "2025-07-03T08:01:13.121Z",
+    "slug": "mcn3jlb4-ai-could-cut-global-carbon-emissions-study-says",
+    "topic": "AI",
+    "url_origin": "https://www.artificialintelligence-news.com/news/study-finds-ai-slash-global-carbon-emissions/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 50,
+    "title": "📈 LLMs Are Doubling in Capability Every 7 Months",
+    "summary": "According to fresh AI news, benchmarking of large language models suggests their capabilities are doubling approximately every seven months. This rapid progress raises both new possibilities and challenges for the AI industry.",
+    "date": "2025-07-03T08:01:13.121Z",
+    "slug": "mcn3jlb4-llms-are-doubling-in-capability-every-7-months",
+    "topic": "AI",
+    "url_origin": "https://spectrum.ieee.org/llm-benchmarking-metr",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 51,
+    "title": "💸 Meta Offers OpenAI Researchers $300M to Jump Ship",
+    "summary": "Meta is reportedly enticing top OpenAI researchers with offers up to $300 million over four years. This splashy move marks a major shake-up in artificial intelligence news and could reshape AI talent dynamics.",
+    "date": "2025-07-03T08:01:13.121Z",
+    "slug": "mcn3jlb4-meta-offers-openai-researchers-300m-to-jump-ship",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/meta-reportedly-offers-top-openai-researchers-up-to-300-million-over-four-years/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
