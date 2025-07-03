@@ -1,5 +1,6 @@
 # netlify.toml
-[[redirects]]
-  from   = "/*"
-  to     = "https://ai.8amcoffee.news/:splat"
-  status = 301          # redirección permanente
+
+# [[redirects]]
+#   from   = "/*"
+#   to     = "https://ai.8amcoffee.news/:splat"
+#   status = 301
