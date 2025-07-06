@@ -718,5 +718,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 62,
+    "title": "🧪 Hidden Prompts in Papers: A New AI Review Hack?",
+    "summary": "In a surprising twist in the world of artificial intelligence news, researchers have embedded covert prompts in academic papers to manipulate AI-assisted peer review systems. This discovery highlights the growing need for ethical safeguards in automated academic processes.",
+    "date": "2025-07-06T08:01:57.350Z",
+    "slug": "mcrdw3fq-hidden-prompts-in-papers-a-new-ai-review-hack",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/researchers-hide-prompts-in-scientific-papers-to-sway-ai-powered-peer-review/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 63,
+    "title": "🌐 U.S. Tightens AI Chip Controls on Malaysia & Thailand",
+    "summary": "Fresh AI news from Washington: the U.S. plans to expand export restrictions on advanced AI chips to Malaysia and Thailand, citing national security concerns. This move highlights the rising geopolitical stakes in the artificial intelligence supply chain.",
+    "date": "2025-07-06T08:01:57.350Z",
+    "slug": "mcrdw3fq-u-s-tightens-ai-chip-controls-on-malaysia-thailand",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/us-government-plans-new-ai-chip-export-controls-targeting-malaysia-and-thailand/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 64,
+    "title": "⏳ EU Presses On with AI Act—No Delays Allowed",
+    "summary": "Despite industry calls for more time, the European Union stays firm on its AI Act timeline. This significant update in artificial intelligence news shows the EU’s commitment to regulating AI development before it's too late.",
+    "date": "2025-07-06T08:01:57.350Z",
+    "slug": "mcrdw3fq-eu-presses-on-with-ai-act-no-delays-allowed",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/no-grace-period-no-pause-eu-sticks-to-ai-act-timeline-despite-industry-pushback/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 65,
+    "title": "🐱 ‘Cat Attack’ Reveals Weakness in AI Reasoning Models",
+    "summary": "In a quirky-yet-serious moment of AI news, researchers expose how a reasoning model's performance crumbles due to poorly engineered context—highlighting the fragile nature of current artificial intelligence systems.",
+    "date": "2025-07-06T08:01:57.350Z",
+    "slug": "mcrdw3fq-cat-attack-reveals-weakness-in-ai-reasoning-models",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/cat-attack-on-reasoning-model-shows-how-important-context-engineering-is/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 66,
+    "title": "📰 ChatGPT Becomes Go-To for News as Google Declines",
+    "summary": "In a telling shift in how people consume ai news, ChatGPT is gaining traction as a news source, while Google News searches are on the decline. This trend underscores a broader transformation in the role of AI in media.",
+    "date": "2025-07-06T08:01:57.350Z",
+    "slug": "mcrdw3fq-chatgpt-becomes-go-to-for-news-as-google-declines",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/chatgpt-usage-for-news-surged-as-google-news-searches-declined/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
