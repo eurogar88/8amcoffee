@@ -838,5 +838,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 72,
+    "title": "🤖 Teamwork Makes the LLM Dream Work: Sakana AI's Innovative Coordination Algorithm",
+    "summary": "In this AI news highlight, Sakana AI unveils an algorithm that enables large language models to collaborate effectively. By mimicking natural swarming behavior, these models can now combine strengths to tackle complex tasks with enhanced accuracy and speed.",
+    "date": "2025-07-08T06:00:27.373Z",
+    "slug": "mcu4fjsc-teamwork-makes-the-llm-dream-work-sakana-ai-s-innovative-coordination-algorithm",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/sakana-ais-new-algorithm-lets-large-language-models-work-together-to-solve-complex-problems/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 73,
+    "title": "🧠 AI Has a Strategy Style: New Study Finds 'Fingerprints' in Game Theory",
+    "summary": "Artificial intelligence news reveals fascinating insights: researchers discovered that AI models exhibit unique 'strategic fingerprints' when facing game theory scenarios. These behavioral patterns could reshape how we interpret AI's decision-making tactics.",
+    "date": "2025-07-08T06:00:27.373Z",
+    "slug": "mcu4fjsc-ai-has-a-strategy-style-new-study-finds-fingerprints-in-game-theory",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/researchers-reveal-that-ai-models-have-distinct-strategic-fingerprints-in-classic-game-theory-tests/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 74,
+    "title": "💊 AlphaFold to the Rescue? Isomorphic Labs Moves Toward Human Drug Trials",
+    "summary": "In major AI news, Isomorphic Labs prepares for its first human clinical trials using drugs created with AlphaFold. This biotech breakthrough blends deep learning and molecular biology, potentially rebooting the pace of pharmaceutical innovation.",
+    "date": "2025-07-08T06:00:27.373Z",
+    "slug": "mcu4fjsc-alphafold-to-the-rescue-isomorphic-labs-moves-toward-human-drug-trials",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/isomorphic-labs-prepares-for-its-first-human-trials-with-drugs-designed-by-alphafold/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 75,
+    "title": "☁️ $30B in the Cloud: OpenAI and Oracle's Mega AI Deal",
+    "summary": "OpenAI signs a $30 billion cloud agreement with Oracle to supercharge its AI projects—an industry-shaping partnership featured in artificial intelligence news. The deal boosts infrastructure for cutting-edge model training and global AI deployment.",
+    "date": "2025-07-08T06:00:27.373Z",
+    "slug": "mcu4fjsc-30b-in-the-cloud-openai-and-oracle-s-mega-ai-deal",
+    "topic": "AI",
+    "url_origin": "https://aibusiness.com/data/openai-oracle-sign-30b-cloud-deal-to-fuel-ai-project",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 76,
+    "title": "🎨 Next-Level 3D: Tencent Unveils Art-Grade Hunyuan3D-PolyGen Model",
+    "summary": "Tencent enters the spotlight of AI news with its Hunyuan3D-PolyGen model, designed to produce 'art-grade' 3D assets. Aimed at the creative industry, this AI model simplifies 3D design and enhances the realism of virtual content.",
+    "date": "2025-07-08T06:00:27.373Z",
+    "slug": "mcu4fjsc-next-level-3d-tencent-unveils-art-grade-hunyuan3d-polygen-model",
+    "topic": "AI",
+    "url_origin": "https://www.artificialintelligence-news.com/news/tencent-hunyuan3d-polygen-a-model-for-art-grade-3d-assets/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
