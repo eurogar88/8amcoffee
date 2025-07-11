@@ -1018,5 +1018,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 87,
+    "title": "🛑 EU Fights Back: Ban Proposed on AI-Generated Abuse Content",
+    "summary": "In major artificial intelligence news, the EU Parliament is pushing to outlaw AI-generated child sexual abuse material as its proliferation surges. The move signals growing regulatory focus on the dark side of generative AI and calls for stricter controls to protect vulnerable populations.",
+    "date": "2025-07-11T06:00:29.379Z",
+    "slug": "mcyer5c3-eu-fights-back-ban-proposed-on-ai-generated-abuse-content",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/eu-parliament-moves-to-ban-ai-generated-child-sexual-abuse-material-as-its-spread-accelerates/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 88,
+    "title": "🧬 Google Launches MedGemma: AI for Medical Innovation",
+    "summary": "Google introduces MedGemma, an open-source suite of AI models tailored for healthcare applications. This new development in AI news aims to accelerate medical diagnostics and research with powerful, transparent artificial intelligence tools for the medical community.",
+    "date": "2025-07-11T06:00:29.379Z",
+    "slug": "mcyer5c3-google-launches-medgemma-ai-for-medical-innovation",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-unveils-medgemma-an-open-source-ai-model-suite-for-medical-applications/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 89,
+    "title": "👨‍💻 Firebase Gets Smarter: 3 New Gemini AI Modes Land",
+    "summary": "In the latest artificial intelligence news, Google adds three Gemini-powered AI modes to Firebase Studio. These upgrades aim to streamline app development with smarter, more autonomous features that assist developers in coding and debugging tasks.",
+    "date": "2025-07-11T06:00:29.379Z",
+    "slug": "mcyer5c3-firebase-gets-smarter-3-new-gemini-ai-modes-land",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-firebase-studio-gets-three-ai-modes-for-more-autonomous-programming/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 90,
+    "title": "📰 Amazon Taps Media Giants to Enrich Rufus AI",
+    "summary": "Amazon partners with Condé Nast and Hearst to bring diverse editorial content into its Rufus AI. This move reflects rising AI news trends where tech meets media, enhancing generative AI experiences with high-quality, trusted content sources.",
+    "date": "2025-07-11T06:00:29.379Z",
+    "slug": "mcyer5c3-amazon-taps-media-giants-to-enrich-rufus-ai",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/amazon-signs-multi-year-deals-with-conde-nast-and-hearst-to-add-editorial-content-to-its-rufus-ai/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 91,
+    "title": "🎬 Gemini’s Veo 3 Adds Image-to-Video AI Feature",
+    "summary": "Google releases an image-to-video functionality for its Veo 3 model within Gemini. This innovation is making waves in the artificial intelligence news space by offering creators new ways to turn static images into dynamic video content through advanced AI.",
+    "date": "2025-07-11T06:00:29.379Z",
+    "slug": "mcyer5c3-gemini-s-veo-3-adds-image-to-video-ai-feature",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-launches-image-to-video-feature-for-veo-3-in-gemini/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
