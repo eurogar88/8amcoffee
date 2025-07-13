@@ -1138,5 +1138,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 97,
+    "title": "🤖 AI Shakes Up Hiring: Indeed & Glassdoor Cut 1,300 Jobs",
+    "summary": "In a move reflecting the latest in AI news, Indeed and Glassdoor are laying off 1,300 employees, citing increased reliance on AI-driven recruitment. The shift highlights how artificial intelligence is transforming hiring processes—and impacting human roles.",
+    "date": "2025-07-13T06:00:27.495Z",
+    "slug": "md19mt7r-ai-shakes-up-hiring-indeed-glassdoor-cut-1-300-jobs",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/indeed-and-glassdoor-are-cutting-1300-jobs-citing-increased-use-of-ai-driven-recruitment/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 98,
+    "title": "💡 'Code Is a Lossy Projection of Intent'—OpenAI Researcher's Take",
+    "summary": "OpenAI researcher Sean Grove offers a thought-provoking perspective: code, in essence, is a simplified version of human intent. In this piece of artificial intelligence news, Grove explores how AI could bridge that gap and improve how we communicate with machines.",
+    "date": "2025-07-13T06:00:27.496Z",
+    "slug": "md19mt7r-code-is-a-lossy-projection-of-intent-openai-researcher-s-take",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/code-is-just-a-lossy-projection-of-intent-according-to-openai-researcher-sean-grove/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 99,
+    "title": "🚀 Microsoft Unveils Phi-4 Mini with 10x Token Speed",
+    "summary": "Microsoft pushes AI efficiency forward with Phi-4-mini-flash-reasoning—promising up to 10x higher token throughput. This AI news marks a significant boost for real-time applications and model performance at smaller scales.",
+    "date": "2025-07-13T06:00:27.496Z",
+    "slug": "md19mt7r-microsoft-unveils-phi-4-mini-with-10x-token-speed",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/microsoft-introduces-phi-4-mini-flash-reasoning-with-up-to-10x-higher-token-throughput/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 100,
+    "title": "🐉 China’s Kimi-K2 Emerges as Next Big Open-Weight AI Model",
+    "summary": "Kimi-K2, China’s latest open-weight model, builds on Deepseek’s foundation and signals a powerful new chapter in global AI development. This major artificial intelligence news indicates growing innovation from East to West.",
+    "date": "2025-07-13T06:00:27.496Z",
+    "slug": "md19mt7r-china-s-kimi-k2-emerges-as-next-big-open-weight-ai-model",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/kimi-k2-is-the-next-open-weight-model-breakthrough-from-china-after-deepseek/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 101,
+    "title": "⚠️ OpenAI Hits Pause on Open-Weight Model Due to Safety Worries",
+    "summary": "OpenAI has delayed its anticipated open-weight model rollout indefinitely, citing safety concerns. This development in AI news raises important questions about balancing openness with responsible AI deployment.",
+    "date": "2025-07-13T06:00:27.496Z",
+    "slug": "md19mt7r-openai-hits-pause-on-open-weight-model-due-to-safety-worries",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/openai-delays-release-of-open-weight-model-indefinitely-over-safety-concerns/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
