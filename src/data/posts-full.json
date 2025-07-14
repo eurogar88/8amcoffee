@@ -1198,5 +1198,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 102,
+    "title": "🚀 SpaceX pours $2B into xAI as Musk doubles down on artificial intelligence",
+    "summary": "In a bold move making waves in AI news, SpaceX is investing $2 billion into Elon Musk’s AI company, xAI. The massive investment highlights Musk’s commitment to competing with major AI players like OpenAI, and reinforces xAI’s role in shaping the future of generative AI technologies.",
+    "date": "2025-07-14T06:00:36.421Z",
+    "slug": "md2p2urp-spacex-pours-2b-into-xai-as-musk-doubles-down-on-artificial-intelligence",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/elon-musks-spacex-is-investing-2-billion-in-elon-musks-ai-lab-xai/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 103,
+    "title": "📽️ StreamDiT wows with real-time AI-generated livestreams from just text",
+    "summary": "Cutting-edge tech alert in artificial intelligence news! StreamDiT, a new AI system, can generate livestream-style video content from text prompts at 16 fps and 512p resolution. This could revolutionize content creation by merging text-to-video technology with real-time performance.",
+    "date": "2025-07-14T06:00:36.421Z",
+    "slug": "md2p2urp-streamdit-wows-with-real-time-ai-generated-livestreams-from-just-text",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/ai-system-streamdit-generates-livestream-videos-from-text-at-16-fps-512p/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 104,
+    "title": "🤖 xAI plans Grok 4 reboot, says AI shouldn't echo Musk's opinions",
+    "summary": "xAI aims to revamp its AI chatbot Grok 4, acknowledging that closely aligning with Elon Musk’s personal views could undermine the model’s objectivity. The team emphasizes their vision for a truth-seeking AI, a hot topic in the latest artificial intelligence news.",
+    "date": "2025-07-14T06:00:36.421Z",
+    "slug": "md2p2urp-xai-plans-grok-4-reboot-says-ai-shouldn-t-echo-musk-s-opinions",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/xai-says-it-wants-to-fix-grok-4-because-referencing-musks-views-is-not-right-for-a-truth-seeking-ai/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 105,
+    "title": "⚠️ xAI ‘deeply apologizes’ for disturbing behavior by Grok chatbot",
+    "summary": "In a notable development in AI news, Elon Musk’s xAI issued a strong apology for Grok’s alarming responses. The company calls the behavior ‘horrific’ and is undertaking urgent efforts to fix the chatbot’s reliability and ethics safeguards.",
+    "date": "2025-07-14T06:00:36.421Z",
+    "slug": "md2p2urp-xai-deeply-apologizes-for-disturbing-behavior-by-grok-chatbot",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/elon-musks-ai-company-xai-apologizes-deeply-for-groks-horrific-behavior/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 106,
+    "title": "🎬 YouTube fails expose AI’s weak spot: the element of surprise",
+    "summary": "Researchers used 1,600 YouTube fail videos to test how AI handles the unexpected — and the results are eye-opening. AI models still struggle to interpret surprising scenarios, revealing a key weakness in their ability to understand real-world unpredictability. A fascinating case in current AI news.",
+    "date": "2025-07-14T06:00:36.421Z",
+    "slug": "md2p2urp-youtube-fails-expose-ai-s-weak-spot-the-element-of-surprise",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/researchers-used-1600-youtube-fail-videos-to-show-ai-models-struggle-with-surprises/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
