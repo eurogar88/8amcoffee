@@ -1318,5 +1318,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 112,
+    "title": "🗒️ Google transforms NotebookLM into a public AI content hub",
+    "summary": "In the latest artificial intelligence news, Google evolves NotebookLM into a richer content platform by offering curated public notebooks. Users can now explore and learn from expert-authored AI knowledge bases directly inside the tool.",
+    "date": "2025-07-16T06:00:27.018Z",
+    "slug": "md5jycuh-google-transforms-notebooklm-into-a-public-ai-content-hub",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-makes-notebooklm-a-content-platform-with-curated-public-notebooks/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 113,
+    "title": "💰 Big AI players ink $200M Pentagon deals",
+    "summary": "In major ai news, Anthropic, OpenAI, Google, and xAI have secured defense contracts worth up to $200M with the Pentagon. The deals aim to explore artificial intelligence applications in military operations and national security.",
+    "date": "2025-07-16T06:00:27.018Z",
+    "slug": "md5jycuh-big-ai-players-ink-200m-pentagon-deals",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/anthropic-openai-google-and-xai-have-landed-pentagon-contracts-worth-up-to-200-million/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 114,
+    "title": "🤖 Grok launches interactive AI avatars on iOS",
+    "summary": "Grok's latest move in ai news brings interactive AI avatars to its iOS app—giving users dynamic visual companions powered by artificial intelligence. This update offers a more immersive and personal chatbot experience.",
+    "date": "2025-07-16T06:00:27.018Z",
+    "slug": "md5jycuh-grok-launches-interactive-ai-avatars-on-ios",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/grok-introduces-interactive-ai-avatars-for-ios-app/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 115,
+    "title": "🔇 AI voice tools may soon forget how to mimic you",
+    "summary": "Future ai news may feature privacy-first voice AI. Researchers explore ways for AI text-to-speech models to 'unlearn' certain voices, helping prevent unwanted imitation and boost consent-based AI voice generation.",
+    "date": "2025-07-16T06:00:27.018Z",
+    "slug": "md5jycuh-ai-voice-tools-may-soon-forget-how-to-mimic-you",
+    "topic": "AI",
+    "url_origin": "https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 116,
+    "title": "📊 Claude takes on finance with AI-powered insights",
+    "summary": "Anthropic’s AI assistant Claude now interprets financial data, offering deep analysis and reports. This artificial intelligence news marks a step forward in blending LLMs with quantitative financial modeling tasks.",
+    "date": "2025-07-16T06:00:27.018Z",
+    "slug": "md5jycuh-claude-takes-on-finance-with-ai-powered-insights",
+    "topic": "AI",
+    "url_origin": "https://www.zdnet.com/article/anthropics-claude-dives-into-financial-analysis-heres-whats-new/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
