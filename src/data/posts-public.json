@@ -1378,5 +1378,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 117,
+    "title": "🔍 Google Upgrades AI Search with Gemini 2.5 Pro and AI Calling",
+    "summary": "In the latest artificial intelligence news, Google rolls out Gemini 2.5 Pro and Deep Search in AI Mode, and introduces AI-powered phone calling within Search. These enhancements aim to redefine how users interact with search and information gathering.",
+    "date": "2025-07-17T06:00:25.662Z",
+    "slug": "md6ze6gt-google-upgrades-ai-search-with-gemini-2-5-pro-and-ai-calling",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/google-brings-gemini-2-5-pro-and-deep-search-to-ai-mode-and-adds-ai-phone-calling-to-search/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 118,
+    "title": "💼 Anthropic Debuts AI Tool for Finance Professionals",
+    "summary": "Anthropic has launched a tailored artificial intelligence solution to assist finance experts with data-driven analysis. This entry into AI news signals a growing trend of domain-specific AI tools transforming professional workflows.",
+    "date": "2025-07-17T06:00:25.662Z",
+    "slug": "md6ze6gt-anthropic-debuts-ai-tool-for-finance-professionals",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/anthropic-launches-a-dedicated-ai-solution-to-help-finance-professionals-with-analysis/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 119,
+    "title": "🧠 Zuckerberg: AI Glasses Will Be Key to Cognitive Edge",
+    "summary": "Meta CEO Mark Zuckerberg claims that skipping AI glasses in the future may leave people cognitively behind. This bold prediction fuels ongoing artificial intelligence news about the integration of wearable tech and human enhancement.",
+    "date": "2025-07-17T06:00:25.662Z",
+    "slug": "md6ze6gt-zuckerberg-ai-glasses-will-be-key-to-cognitive-edge",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/zuckerberg-predicts-that-not-wearing-ai-glasses-in-the-future-will-put-you-at-a-cognitive-disadvantage/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 120,
+    "title": "🗣️ Mistral Launches Voxtral: Open-Source Speech AI at Lower Cost",
+    "summary": "Mistral introduces Voxtral, an open-source speech model that competes with proprietary tools at a lower cost. This move adds fresh momentum to the AI news cycle, emphasizing affordability and accessibility in speech technology.",
+    "date": "2025-07-17T06:00:25.662Z",
+    "slug": "md6ze6gt-mistral-launches-voxtral-open-source-speech-ai-at-lower-cost",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/mistral-unveils-voxtral-an-open-source-speech-model-with-lower-costs-than-proprietary-rivals/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 121,
+    "title": "📊 OpenAI Tests ChatGPT Agents for Docs & Sheets Creation",
+    "summary": "OpenAI is experimenting with ChatGPT agents capable of generating and editing presentations and spreadsheets directly in chat. This major update in artificial intelligence news could streamline workplace productivity like never before.",
+    "date": "2025-07-17T06:00:25.662Z",
+    "slug": "md6ze6gt-openai-tests-chatgpt-agents-for-docs-sheets-creation",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/openai-is-testing-chatgpt-agents-that-create-and-edit-presentations-and-spreadsheets-in-chat/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
