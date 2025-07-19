@@ -1498,5 +1498,65 @@
     "post_body": "",
     "post_image": "",
     "col_9": ""
+  },
+  {
+    "row_number": 127,
+    "title": "🚫 Meta Rejects EU AI Code Over Legal Concerns",
+    "summary": "In recent artificial intelligence news, Meta declined to sign the EU’s AI Code of Practice, citing 'legal uncertainty.' The decision raises questions about Big Tech's role in AI governance and regulation across Europe.",
+    "date": "2025-07-19T06:00:26.532Z",
+    "slug": "md9u9wgz-meta-rejects-eu-ai-code-over-legal-concerns",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/meta-refuses-to-sign-eus-ai-code-of-practice-citing-legal-uncertainty/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 128,
+    "title": "⚠️ Sam Altman: Don't Share Private Data with ChatGPT",
+    "summary": "AI News Alert: OpenAI CEO Sam Altman warns users against trusting the ChatGPT agent with sensitive or personal information. This highlights growing concerns over data privacy in artificial intelligence systems.",
+    "date": "2025-07-19T06:00:26.532Z",
+    "slug": "md9u9wgz-sam-altman-don-t-share-private-data-with-chatgpt",
+    "topic": "AI",
+    "url_origin": "https://the-decoder.com/openai-ceo-sam-altman-warns-users-not-to-trust-chatgpt-agent-with-sensitive-or-personal-data/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 129,
+    "title": "🏃💥 Can AI Progress Be Both Fast and Safe?",
+    "summary": "The growing AI race poses a key question: can innovation speed coexist with responsible development? This article explores the tradeoffs between rapid progress and ensuring safety in artificial intelligence news.",
+    "date": "2025-07-19T06:00:26.532Z",
+    "slug": "md9u9wgz-can-ai-progress-be-both-fast-and-safe",
+    "topic": "AI",
+    "url_origin": "https://www.artificialintelligence-news.com/news/can-speed-and-safety-truly-coexist-ai-race/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 130,
+    "title": "🔍 AI Dataset Includes Millions of Personal Records",
+    "summary": "A major revelation in the AI community: a huge training dataset includes millions of personal data entries. This discovery stirs debate about data ethics, transparency, and consent in AI development.",
+    "date": "2025-07-19T06:00:26.532Z",
+    "slug": "md9u9wgz-ai-dataset-includes-millions-of-personal-records",
+    "topic": "AI",
+    "url_origin": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
+  },
+  {
+    "row_number": 131,
+    "title": "👶💡 AI in Pediatrics: LLMs Reinvent Child Healthcare",
+    "summary": "Exciting artificial intelligence news highlights how large language models (LLMs) are transforming pediatric care. From diagnosis to patient support, AI is paving the way for more efficient, data-driven child healthcare solutions.",
+    "date": "2025-07-19T06:00:26.532Z",
+    "slug": "md9u9wgz-ai-in-pediatrics-llms-reinvent-child-healthcare",
+    "topic": "AI",
+    "url_origin": "https://www.aiacceleratorinstitute.com/how-large-language-models-are-transforming-pediatric-healthcare/",
+    "post_body": "",
+    "post_image": "",
+    "col_9": ""
   }
 ]
